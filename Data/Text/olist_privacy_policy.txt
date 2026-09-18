@@ -1,0 +1,251 @@
+Olist Group Privacy Policy
+1. Objective
+The olist group has the mission of empowering commerce, and providing real growth opportunities for small, medium and large businesses. We exist to eliminate obstacles and help our customers have the best experience in online commerce.
+
+In line with our institutional mission, we respect the privacy of our clients and all individuals who choose to share their information with us. We are committed to protecting your Personal Data and your privacy.
+
+This Privacy Policy ("Privacy Policy" or simply "Policy") informs you about our privacy and data protection practices, as well as the way in which your Personal Data is collected and used by olist group companies.
+
+This Policy contains information about the processing of your Personal Data, including sharing it with third parties for specific purposes. The provisions set forth in this document apply to the operational and support activities performed by the entire olist group, hereinafter referred to as "OLIST", "We", "Our" or "Our".
+
+ 
+
+2. To whom this policy applies
+ 
+
+The Policy describes the Processing of Personal Data in the olist group, composed of the following companies:
+
+Olist Serviços Digitais LTDA, CNPJ No. 18.552.346/0001-68 (Olist Loja);
+Olist Tiny Tecnologia LTDA, CNPJ No. 15.088.992/0001-28 (Olist ERP);
+Vnda Serviços de Tecnologia LTDA, n° CNPJ 12.803.527/0001-33 (Olist Ecommerce);
+Pax Tecnologia LTDA, CNPJ n° 30.320.042/0001-70 (Olist Envios);
+Flip tecnologia ltda, CNPJ n° 44.152.170/0001-67 (Credit from olist/Flip by olist);
+ 
+This document is an integral part of the Terms and Conditions of Use ("Terms of Use") of the products offered by the entire OLIST group, through its companies. Therefore, once the respective acceptance of the Terms of Use is obtained when contracting a product belonging to the OLIST group's list, it will be extended to this Policy, and the obtaining and use of information and Personal Data as an object of the contractual purpose is consented.
+
+When You hire the services of the OLIST group, You provide us with your Personal Data so that we can enable the provision of Our services, to deliver the best possible experience.
+
+In the event that You do not accept or agree with this Privacy Policy, unfortunately it will not be possible to use the services provided by the OLIST group, as these will remain unfeasible, due to the need to use the data provided by You for the execution of the Platform and other services, including Your Personal Data.
+
+Therefore, You are not obliged to accept this Policy, but acceptance of it is a condition for the use of the Platform and the provision of OLIST's services.
+
+In other words, this Policy applies to any processing of Personal Data carried out by the olist group, in accordance with the Terms of Use of each product, observing, for example, the following hypotheses:
+
+👉 Clients of the OLIST group: natural persons who effectively contract, use or access one or more services or products of the OLIST group representing a legal entity, whether legally or in fact;
+
+👉 OLIST Group Prospectuses: natural persons prospected by Us or who have already requested the contracting of one of the services or products, but who have not yet become a customer;
+
+👉 Consumers who purchase products with the OLIST group: individuals who have purchased physical products with olist
+
+ 
+
+3. What is personal data
+ 
+
+"Personal Data" is understood as information related to an identified or identifiable natural person, in accordance with the terms set forth in the General Data Protection Law. The Personal Data that We collect and process is used to provide and improve Our services or to enable the achievement and maintenance of Our relationship with You.
+
+Each time You read this term beginning in capital letters in this Policy, it means that it has the meaning specifically defined in accordance with this chapter.
+
+
+4. Acceptance of this privacy policy
+ 
+
+This document is an integral part of the Terms of Use of all products of any of the companies belonging to the olist group. Therefore, once the acceptance of the Terms of Use of the product(s) that will be contracted is obtained, it will be extended to this Policy, and the obtaining and use of information and Personal Data as an object of the contractual purpose is consented.
+
+If You are reading this Privacy Policy on behalf of a legal entity, You are acknowledging the provisions of that entity on behalf of that entity and representing that You have civil capacity, as well as full power and authority to bind such entity. In this case, the term "You" refers to the aforementioned entity.
+
+In the event that You do not accept or do not agree with this Privacy Policy, unfortunately it will not be possible to use the services provided by OLIST, as these will remain unfeasible, due to the need to use the data provided by You for the execution of the Platform(s) and other services, including Your Personal Data. Therefore, You are not obliged to accept this Policy, but your acceptance is a condition for the use of the Platform(s) and the provision of OLIST's services.
+
+For information on how OLIST uses information and Personal Data, we recommend that You read this entire Privacy Policy and, if applicable, the Privacy Policy specific to each product You contract.
+ 
+
+5. Find out what information and personal data OLIST processes
+As provided for in the various Terms of Use of the OLIST group, in order to be able to register and use the Platforms and services provided by OLIST, the User must initially provide some of the following commercial data or Personal Data, depending on the product and/or service to be contracted:
+
+Information about individuals:
+👉 Full name;
+👉 Phone number;
+👉 Email address;
+👉 Home address;
+👉 CPF;
+👉 Sex;
+👉 Date of Birth;
+👉 Scanned copy of personal document and data contained in this document, including, if necessary, analysis of the official photograph.
+
+Information about legal entities:
+👉 National Registry of Legal Entities (CNPJ) number;
+👉 Phone number;
+👉 Email address;
+👉 Business address;
+👉 Bank details;
+👉 Business license;
+👉 User profile creation;
+
+Eventually, some of the commercial data provided by the User may be considered as Personal Data, and these may be processed by OLIST, due to their need for the correct use and execution of the Platform(s) and other services provided by OLIST and/or for the purposes specified in this Policy.
+
+OLIST also obtains publicly accessible Personal Data through its partners for the purpose of capturing and market knowledge. In relation to potential customers, we may collect some data from this list exemplified above, such as name, email, telephone number and company, so that we can update Our contact list in order to offer our services, enabling them to opt-out.
+
+In addition, We may collect information about You that is publicly available or that has been made public by You, such as information about mentions or interactions with Olist Group's customers, as well as testimonials regarding customers posted on profiles and pages on social networks, along with Your name and image (including profile photos).
+
+We process the Personal Data of participants in surveys and campaigns we carry out, as well as users of social networks, for the purpose of conducting research and studies, ensuring, whenever possible, anonymization. In this case, we may collect name, age, telephone number, and socioeconomic data. However, consent is requested from the survey and campaign participant.
+
+During events we promote, we may collect Personal Data from participants and speakers, such as name, email, telephone number, identity document, company where you work and position, so that we can send invitations and for internal control and security purposes.
+
+In addition to the data provided by the User, during the registration, use and termination of the use of the services of the olist group and its Platforms, log data from Your computer and/or smartphone may also be stored, collected, eliminated, processed, reproduced, transferred and used. This log data may include information such as, but not limited to, the IP (internet protocol address) of Your computer and/or smartphone, computer and/or smartphone name, computer and/or smartphone operating system version, website and/or application settings when using the service, date and time of use of the service, and other statistics, in accordance with the Cookie Policy.
+
+All the above-mentioned log data are intended to improve the services and the Platform made available by OLIST, as well as to identify any failures or improvements in these systems.
+
+For specific products and/or platforms, as specified in the Terms of Use of each product/platform of the olist group, location data is also collected and processed, in an accurate or approximate way, from the mobile devices of the users of the product/platform, observing the purposes set forth in this Privacy Policy and in the specific Terms of Use of each product/platform.
+
+Regarding the creation of user profiles, we are committed to providing You with more and better services. To this end, we resort to the elaboration of profiles, referring to the evaluation of some personal aspects, such as Your history of use on the Platform(s), behaviors or interests that are carried out through the automatic processing of Personal Data with statistical procedures. With the result of this treatment, we can help you better and more efficiently.
+
+Finally, we may process Your Personal Data to comply with a legal or regulatory obligation; regular exercise of rights in judicial, administrative or arbitration proceedings; based on legitimate interests; and for the execution of contracts.
+
+5.1. Use of cookies
+
+. The use of OLIST's services and the Platform(s) also generate "Cookies" files (and other similar technologies such as web beacons), and the rules for the use, collection and treatment of these Cookies are provided for in the Olist Group's Cookie Policy.
+
+All browsing and device data collected or provided, by the User or by third parties, to OLIST, as well as log data that may be stored, deleted, processed, reproduced, transferred and used by the Group, will be for the purpose of improving the services and the Platform made available by Us, as well as identifying any failures or improvements in these systems. Such data may be collected through cookies and other similar technologies such as web beacons.
+
+The OLIST Group does not process these cookies explicitly. However, the services and Platforms may use third-party code and libraries that use cookies to obtain information, improve their services, and display advertisements.
+
+You have the option to accept or decline these cookies and know when a cookie is being sent to Your computer and/or smartphone. If You choose to refuse cookies, the services and the Platform may not function properly.
+ 
+
+6. What is the minimum age to access the platform and the services provided by OLIST?
+Our services and Platforms are intended only for access and use by individuals with full capacity for acts of civil life, that is, persons over 18 (eighteen) years of age. By accessing or using the services and the Platform(s), You guarantee and declare to have full capacity for all acts of civil life, that is, to be of legal age, and, therefore, have full capacity to understand, accept and comply with all this Privacy Policy and the Terms of Use of the OLIST Group's products and services.
+
+If You do not have or consider that You do not have full capacity for acts of civil life, access to and use of Our Services and the Platform(s) will be prohibited.
+
+If it is detected, by any means, the processing of Personal Data of a minor under eighteen (18) years of age, OLIST will eliminate all records. If You are a parent or legal guardian and discover that Your child has provided us with personal information, please contact us at encarregadodedados@olist.com email so that we can take the necessary steps to delete the data.
+
+
+7. Purpose of processing your personal data
+All processing of commercial data or Personal Data in accordance with the Law, by and on behalf of OLIST is for the following purposes:
+
+👉 Registration and identification of the User in the services and on the Platforms, as well as the use of these by You;
+
+👉 Communication between OLIST and the User regarding the services provided by OLIST and the Platform, as well as for reports, advice to Users to provide information and clarify doubts, bulletins, marketing or promotional materials;
+
+👉 Communication and identification of visitors who are potential Users of the Services and the Platform(s);
+
+👉 Analyze the performance, facilitate and enable the provision of services and the Platform(s), as well as its Users;
+
+👉 Communication and resolution of disputes with services provided by third parties, which may provide Personal Data from Their databases for the correct use and execution of the Platform(s) and other services provided by OLIST; e
+
+👉 Verification of the veracity of data and fraud prevention, in order to safeguard the rights and assets, of all kinds, as well as the integrity and security of OLIST, its services provided and its Platform(s), through audits and/or integrity checks, carried out by OLIST or by third parties on its behalf, observing the provisions of the Terms of Use of each product you hire.
+
+The commercial information and Personal Data that are processed by OLIST are not shared with third parties, except in the cases expressly provided for in the Terms of Use of each product and in this Privacy Policy, so that the use and execution of the Platforms and other services provided by OLIST occurs in an integral manner.
+
+OLIST allows Users to have limited access to certain data (such as: name, address, CPF or CNPJ) of Consumers for: (a) purposes related to transactions on the Platform; (b) use the services offered by the OLIST group (such as, for example, billing, shipping and transport and claims about fraud or services) and (c) any other purpose to which the corresponding user expressly consents after the information has been previously communicated.
+
+Personal Data or commercial information processed by Users of the services and Platforms, due to their use and execution, may not be processed beyond the hypotheses provided for in this Privacy Policy and Terms of Use of each product You contract, and the offending user will be subject to the sanctions provided for in the applicable Terms of Use. in addition to those provided for in administrative, civil and criminal legislation.
+
+The OLIST Group does not control, store or have access to messages and content sent by Users by means other than the Platforms and, therefore, does not assume responsibility for any damage that may result from their use. The negotiations carried out by Users through these means are under their responsibility.
+
+The OLIST Group is not responsible for the business or transaction information published or trafficked on the Platforms. Users agree that the OLIST Group will not be responsible for losses or damages that may be generated as a result of negotiations carried out or frustrated between users and/or consumers. Consequently, You exempt OLIST from all types of liability in the event that it has a conflict with one or more Users.
+
+The services provided by the OLIST Group, as well as its Platforms, may contain links to third-party websites, so that the use and execution of those sites occurs in an integral manner. If You click on a third-party link, You will be directed to that website. Please note that these external sites are not operated by OLIST. Therefore, OLIST Group strongly recommends that You review the privacy policies of these third-party websites. We have no control over, and assume no responsibility for, the content, Terms of Use, privacy policies, or practices of any third-party services or websites.
+
+8. Who we share your personal data with
+We may share Personal Data with third parties and with the agencies that are part of the OLIST Group, when necessary for the provision of Our services and the execution of Our institutional purposes, as indicated below:
+
+👉 Service providers hired to act on behalf of the OLIST Group to provide a service following Our instructions, to help improve or facilitate operations through Our services;
+
+👉 Business partners with whom the OLIST Group maintains a collaborative relationship or alliance;
+
+👉 Users of the OLIST Group to enable Our services;
+
+👉 Administrative and judicial authorities that, in the exercise of their competence, require information;
+
+👉 Among the companies of the OLIST group, to support and promote the activities performed by it, especially to offer services according to its user profile, provided that the purposes and other rules established in this Privacy Policy and Terms of Use of each product are observed;
+
+👉 Holders of intellectual property rights, to comply with Industrial Property and/or Copyright legislation, collaborating with the protection of such rights; e
+
+👉 OLIST employees and suppliers to enable Our services.
+
+The OLIST Group shares only the data that is pertinent, proportional and not excessive in relation to the purpose of the sharing.
+
+If the OLIST Group needs to share Your Personal Data with third parties other than those mentioned above, for any reason, we will update this Policy.
+
+9. International transfer of personal data
+The services provided by the OLIST Group require the support of a technological infrastructure that can be established outside Brazil, such as servers and cloud services, usually in the United States, which may be owned or provided by third parties.
+
+In these cases, the OLIST Group only ensures to hire third parties that meet the highest security standards, at least at the same level of Personal Data protection appropriate to Brazilian law. This level of security is attested to by certifications such as ISO/IEC 27701:2019. If any country that receives the Personal Data that We transfer does not offer adequate levels of security, OLIST will adopt measures to protect your Data, through contractual clauses that impose the same protection measures described in this Policy.
+
+The OLIST Group operates and/or has business partners and suppliers that process Your Personal Data, namely: USA, Norway, Malta, Ireland, Mexico and Estonia.
+
+ 
+
+10. Security of your personal data
+The OLIST Group values Your trust in providing us with Your information, including some Personal Data and, therefore, We have adopted acceptable and appropriate administrative and technical measures to protect it from unauthorized processing hypotheses, as well as accidental or unlawful situations. However, it is important to note that no method of transmission over the internet, or electronic storage, is 100% secure and reliable.
+
+The OLIST Group will not be responsible, under any circumstances, for losses of any kind, including, but not limited to, those arising from the disclosure of Personal Data and the User's access to third parties or the loss of such information resulting directly or indirectly from the misuse of the Platform by the User.
+
+The Personal Data provided by the User to the OLIST Group are encrypted, and the access logs (date, time of use of the application and the IP address of access) are archived for at least 6 (six) months, as determined by article 15 of the Civil Rights Framework for the Internet (Law 12.965/2014), and Its access is carried out exclusively for the purpose of providing OLIST Services.
+
+The User undertakes to keep under his/her custody and confidentiality the contact email and password provided for access to the OLIST Group services and the Platforms, as well as for the veracity of the information provided to Us.
+
+The User undertakes to immediately notify the OLIST Group of the loss, theft or robbery of their access credentials, or even the risk of being used by third parties, and OLIST is not responsible for the misuse of the data.
+ 
+
+11. Duration of treatment
+In accordance with the provisions of the OLIST Group's Terms of Use, the provision of services and the use of the Platforms have an indefinite duration, which is why, as long as the User's relationship with OLIST is maintained, their information will continue to be processed.
+
+As long as Your relationship with the Olist Group is maintained, Your Personal Data will continue to be used and processed by Us. However, even after the termination of Your Relationship with OLIST Group, for any reason, Your Personal Data will be kept by Us and/or authorized third parties for the period necessary to:
+
+👉 compliance with legal or regulatory obligations of the OLIST Group and its suppliers or business partners;
+
+👉 the regular exercise of rights in judicial, administrative or arbitration proceedings;
+
+👉 guarantee of fraud prevention and security of the user and the Olist Group; and/or
+
+👉 for the protection of the credit of the OLIST Group.
+
+In addition, the OLIST Group may keep Your Personal Data for other purposes provided for by law, such as the exclusive use of the OLIST Group, in anonymized form or in situations that justify Our legitimate interest.
+
+You may request more information through the contact details provided in this Privacy Policy.
+
+ 
+
+12. Your rights
+The OLIST Group respects Your privacy and is concerned with providing the necessary channels so that You can exercise Your rights and have adequate, clear and transparent information about the use and processing of Your Personal Data.
+
+Thus, the request to change incomplete, inaccurate or outdated data and/or delete data provided to the OLIST Group by the User, including Personal Data, must be made by sending a message on our data subject portal. Such request will be analyzed, and if it does not imply interruption in the provision of services provided by Us or affects any of the data retention hypotheses specified in the chapter above, it will be proceeded.
+
+If it implies interruption in the provision of services, Your relationship with the OLIST Group will be terminated, but the obligations arising from the provision of such services, such as the payment of amounts due to the OLIST Group and/or its business partners, will remain valid and, in this case, Your information and Personal Data will continue to be processed by Us and/or authorized third parties until the need or purposes set forth in this Policy cease.
+
+In addition to the amendment and deletion of Personal Data, You may also exercise the following rights:
+
+👉 Confirm the processing of your Personal Data carried out by the OLIST Group and/or authorized third parties, as well as have access to them, including after the termination of Your relationship with the OLIST Group in the cases provided for in Chapter 11 of this Policy;
+
+👉 Information on the public and private entities with which the controller has shared data;
+
+👉 Information on the possibility of not providing consent and on the consequences of refusal, when the OLIST Group requests Your consent for the processing of Personal Data in a specific situation;
+
+👉 Revocation of consent for the processing of Personal Data in the appropriate cases, as well as on the consequences of this action in any specific situation; e
+
+👉 Inform the OLIST Group that you disagree with the processing of Your Personal Data explaining the reason for the opposition, so that We can analyze the situation.
+
+The OLIST Group will anonymize, block or delete any Personal Data that becomes unnecessary or excessive and will not process this Data in violation of the General Law for the Protection of Personal Data.
+
+The OLIST Group reserves the right to change this Privacy Policy, at its discretion, at any time and without the need for prior notification to the User. Changes of any kind to this Privacy Policy will be posted in Olist's environments.
+
+The User should periodically check this Privacy Policy in order to follow up on changes. The continued use of your account in the OLIST Group will constitute your acceptance of the changes and the new Privacy Policy.
+
+The OLIST Group will inform the User through the Platforms and/or e-mail when the Privacy Policy changes. Upon becoming aware of the changes in the Policy, You will have the opportunity to request clarification from the OLIST Group about any modification regarding the processing of Your Data. In addition, by virtue of changes to Our Policy, You may be asked to confirm your consent, where applicable. You will be responsible for updating your Personal Data.
+ 
+
+13. Contact with olist - the person in charge of processing personal data
+If in doubt, you can contact Our Foreman, John the Baptist. You can contact them by sending a message on our cardholder portal, or by e-mail at encarregadodedados@olist.com. He is responsible for the function of acting as a communication channel between You, the holder of Personal Data, and Olist.
+
+14. Changes to this policy
+We may change this Privacy Policy at any time, and it is up to Our User to check it whenever accessing Our Platforms.
+
+In the event that the changes made are significant and relevant to the purpose and interest of the Users, we will notify them through the contacts provided.
+
+If you have any questions about this Privacy Policy, you may contact the communication channels set out above.
+ 
+
+15. Applicable laws and jurisdiction
+This Privacy Policy is governed by the General Data Protection Law and is elected the Central Court of the District of the Metropolitan Region of Curitiba/PR, with express waiver of any other forum, however privileged it may be, to resolve disputes that may arise from its terms.

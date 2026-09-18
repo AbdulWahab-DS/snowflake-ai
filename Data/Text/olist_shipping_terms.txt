@@ -1,0 +1,639 @@
+General Terms and Conditions of Use - Olist Shipping
+The OLIST SUBMISSIONS PLATFORM is made available and managed by PAX TECNOLOGIA LTDA, registered with the CNPJ under No. 30.320.042/0008-47, headquartered at Rua Henry Ford, nº 803, Annex Modules 7 and 8, Presidente Altino, Osasco/SP, CEP 06210-108 (hereinafter "OLIST SUBMISSIONS").
+
+1. DEFINITIONS
+The following definitions will be used in these Terms:
+
+ 
+
+1.1 Parties: OLIST SUBMISSIONS and the User, when referred to jointly.
+
+ 
+
+1.2 OLIST SHIPMENTS or Platform: is the platform that provides Users with freight quotation and contracting services, issuance of transport labels, shipment management, address collection and other functionalities related to the transportation of goods, using pre- or post-paid credits, through partner carriers.
+
+ 
+
+1.3 OLIST ECOSYSTEM: set of products, services and digital platforms made available by the Olist Group, integrated with Olist's ERP or offered in a complementary manner, governed by the respective Terms of Use and specific Policies. The adhesion and use of the Olist Ecosystem implies knowledge and agreement of the USER also with the Terms of Use of the Olist Ecosystem.
+
+
+1.4 USER: individual and/or legal entity that hires Olist's Submissions functionality, as well as its affiliates, agents or collaborators duly authorized to use the system on its behalf.
+
+
+1.5 Olist ERP: software of the Olist Ecosystem, developed and registered in the name of OLIST TINY TECNOLOGIA LTDA., which enables the control and processing of information and internal data of companies, characterized as a business management tool, with remote access via the world wide web, through its own devices, whose responsibility is the USER's, which has integration with the OLIST SUBMISSIONS Platform.
+
+
+1.6 Partners: transport companies and/or self-employed drivers registered on the Platform and who, through a specific partnership agreement independent of these Terms of Use, perform the services of collection, transportation and delivery of products from Customers to End Consumers, under the intermediation of the Platform.
+
+ 
+
+1.7 Final Consumer: refers to the final consumer, individual or legal entity, who purchases products from the User and receives them through the transportation services contracted through the Platform. The Final Consumer has no direct link with the Platform, and the consumer relationship is exclusively with the User.
+
+ 
+
+1.8 Wallet: is a feature of the Platform that allows the User to control credits for the acquisition of transport labels and payment for services offered within the platform. Wallet is not a bank account.
+
+ 
+
+1.9 Credits: correspond to the amounts expressed in Reais, available in the User's Wallet, which can be used exclusively to pay for services offered on the Platform, such as the acquisition of shipping labels. Wallet credits are not legal tender and do not allow any banking transactions to be carried out
+ 
+
+
+2. OBJECT AND OPERATION
+ 
+
+2.1 OLIST SHIPMENTS is a Platform that allows Users to contract shipping services, provided by registered Partners, in addition to enabling the management of product shipments to their Final Consumers.
+
+ 
+
+2.2 The following features are available on the Platform, but are not limited to:
+
+Acquisition of Credits: which can be used only to contract freight services and related fees;
+Use of Postpaid Credits: early use and payment at the end of the month. Available only to merchants who comply with the requirements described in item 3.2.1;
+Quotation and contracting of freight: comparison of prices and freight conditions between different Partners, with the possibility of choice and contracting;
+Generation of transport labels: issuance of standardized labels to identify packages and packages;
+Shipment management: monitoring the location of orders in real time, with notifications on the status of delivery; e
+Pick-up scheduling: scheduling the collection of orders at the address indicated by the User.
+
+ 
+
+2.3 The Platform reserves the right to refuse or cancel any collection or shipment of products that are not accompanied by a valid Invoice, or with the respective descriptions of the product sent, in accordance with Brazilian legislation, as well as if it is not in accordance with the Transportation Policies of each Partner.
+ 
+
+3. INTEGRATION AND ACCESSION
+ 
+
+3.1 By opting for one of the accounts offered, the USER will automatically grant acceptance to the content of these Terms of Use, also agreeing that any individual who uses their account on their behalf will also respect the aforementioned Terms of Use.
+
+ 
+
+3.2 The use of Olist's Shipping platform constitutes acceptance of these Terms of Use.
+
+ 
+
+3.2.1 There are two modalities of contracting the solution, namely:
+
+
+3.2.1. a) Prepaid: the merchant performs the integration and adds the desired amount to his Wallet, which can be reverted to shipping labels until the amount is exhausted. When you need to use the OLIST SHIPMENTS solution, just add values to the Wallet;
+
+
+3.2.1. b) Postpaid: the merchant who complies with the requirements of the item below, performs the integration, reverts available credits and, at the end of the month, ENVIOS DA OLIST generates a usage report and the amount used is charged to the merchant, who must make the payment according to use.
+
+
+3.2.1. c) Requirements for integration in the postpaid modality: I) Have more than 6 (six) months of operation with ENVIOS DA OLIST; II) Have no history of default; III) Use from R$ 5,000.00 (five thousand reais) in labels per month; IV) Be available to upgrade your account (consult the OLIST SHIPMENTS service).
+
+ 
+
+3.3 To use the Platform, the User must be registered with the OLIST ERP and integrate the OLIST SHIPPING platform.
+
+ 
+
+3.4 When used as a functionality integrated with Olist's ERP, the Olist Submissions User will also be subject, in addition to these Terms and Conditions, to the rules and policies applicable to the Terms of Use of Olist's ERP, including provisions on registration, support, limitations of use and other conditions applicable to the ERP platform.
+
+
+3.5 Olist's Shipping platform is part of the set of products, services and digital platforms made available by the Olist Group. The adhesion and use of the Olist Ecosystem implies knowledge and agreement of the USER also with the Terms of Use of the Olist Ecosystem.
+
+
+3.5.1 The Platform is made available in the OLIST ERP environment. Therefore, it is not necessary to register again, since the Platform has native integration with OLIST's ERP. The User must confirm the following information:
+
+a) Collection Address: place where the products will be collected;
+
+b) Contact Data: telephone and email address for communication with the Platform and the Partners.
+
+ 
+
+3.5.2 If the User does not have an active Account in the OLIST ERP, HE/SHE must register with ENVIOS DA OLIST.
+
+ 
+
+3.6 In cases of shipment via Authorized Points, the transportation service begins exclusively through partner and authorized collection points. It is the Sender's sole responsibility to transport the goods properly packed and labeled to the authorized location. The provision of the service is subject to the availability of points in the region of origin and the limitations of logistics coverage in force for the region of destination.
+
+ 
+
+3.7 The User undertakes to immediately report any misplacement, theft, loss or unauthorized use of his/her login and/or password, so that Olist can block them.
+
+ 
+
+3.8 The OLIST SUBMISSIONS platform is exempt from any and all liability arising from the improper, negligent or reckless use of the login and/or password.
+
+ 
+
+3.9 The User must provide, when contracting the Platform, true, updated and complete information, and ENVIOS DA OLIST is allowed to use its own or third-party service to verify the validity and veracity of the information. The User must also inform any change in their registration data, including changes in conventional addresses or e-mail.
+
+ 
+
+3.10 If the data provided by the User at the time of contracting are wrong or incomplete, change not communicated under the terms of the previous item, or make it impossible to prove and identify, ENVIOS DA OLIST may, at its sole discretion, automatically suspend or cancel and regardless of prior communication, the services contracted herein.
+
+ 
+
+4. WALLET
+ 
+
+4.1 The Platform provides Users with the "Wallet" functionality, which allows the acquisition and management of credits for the contracting of freight services and related fees.
+
+ 
+
+4.2 The User may add credits to their Wallet at any time, observing the minimum limit indicated on the Platform, through the payment methods available on the Platform.
+
+ 
+
+4.2.1 For customers in the postpaid modality (boleto), the delay in payment will subject the Partner to the application of a fine of 2% (two percent) on the total amount of the debt, plus default interest of 1% (one percent) per month, calculated pro rata die.
+
+ 
+
+4.3 The credits in the Wallet will be automatically used for the payment of freight at the time of contracting the service, to the extent that the shipments are contracted by the Client.
+
+ 
+
+4.4 Credits do not have an expiration date and remain available in the Wallet as long as the User's account is active.
+
+ 
+
+4.5 The User may request the redemption of credits available in their Wallet, upon payment of a fee indicated on the Platform, per redemption request.
+
+ 
+
+4.5.1 The maximum amount for each redemption request is the one indicated on the Platform.
+
+ 
+
+4.5.2 The redemption will be made exclusively to the bank account held by the User, after validation of the information.
+
+ 
+
+4.5.3 The OLIST SUBMISSIONS platform reserves the right to request additional information and documents for the validation of the redemption request, such as, but not limited to: account holder's email, registration data, bank details, updated company documents, updated documents of the managing partner, company's CNPJ and justification for the redemption.
+
+ 
+
+4.5.4 The redemption request will be analyzed by ENVIOS DA OLIST and the User will be notified of the approval or refusal of the procedure by email and/or on the Platform.
+
+ 
+
+4.5.5 In case of suspected fraud, the Platform may block the User's Wallet and account until the situation is clarified.
+
+ 
+
+4.6 In the event of discrepancies between the weight characteristics and descriptions of the package provided by the User and those determined by ENVIOS DA OLIST, through the Partners, ENVIOS DA OLIST will charge the difference in value directly to the User's Wallet.
+
+ 
+
+4.6.1 The Platform will make available to the User, in their account, a clear and complete detail of the divergences in values, informing the reasons and adjusted values.
+
+ 
+
+4.7 Any amounts to be refunded to the User, as a result of cancellation of labels, before their use, compensation for damage, loss, theft, misplacement or other reasons provided for in the contract with the Partner, will be credited to the Wallet, and may be used to purchase new shipping labels or requested for redemption.
+
+ 
+
+4.8 For the postpaid modality, in case of delay in payment of more than 10 (ten) days, the user will be subject to the blocking of his account, as well as the incidence of interest, fine and eventual protest of the debt, without prejudice to the applicable legal measures.
+
+ 
+
+5. LOGISTICS
+ 
+
+5.1 The Platform provides Users with a network of partner carriers for the collection and delivery of products. Currently, the list of Partners includes the carriers indicated on the Help Center page, as well as partner drivers registered directly on the Platform.
+
+
+5.1.1 ENVIOS DA OLIST reserves the right to change the list of partner carriers at any time.
+
+ 
+
+5.1.2 The User may freely choose the partner carrier that best meets their needs, comparing the prices and delivery times available on the Platform for each region and type of service.
+
+ 
+
+5.1.3 The contracting of the freight service will take place upon the choice of the partner carrier and the confirmation of the order by the User on the Platform, which implies the acceptance of the price and delivery time informed.
+
+ 
+
+5.1.4 The relationship between ENVIOS DA OLIST and the carriers, as well as between the registered partner drivers, is strictly commercial and/or of service provision nature, not characterizing, under any circumstances, an employment, corporate relationship or any other form of labor relationship or association between the Parties.
+
+ 
+
+5.1.5 The partner carriers and drivers act autonomously and independently, being responsible for complying with their legal and tax obligations, including labor and social security charges.
+
+ 
+
+5.1.6 The carriers will also be directly responsible for the service provided to the User.
+
+ 
+
+5.2 Once the shipping label is purchased/issued, the Platform will automatically generate the shipping label, which must be printed and affixed to the product packaging by the User.
+
+ 
+
+5.2.1 It is the User's responsibility to correctly print and apply the label, containing all the information necessary for the identification of the recipient, sender and tracking code.
+
+ 
+
+5.2.3 It is also the User's responsibility to properly package the product. If it is incorrectly packaged, ENVIOS DA OLIST and/or Partner may refuse to make the refund in case of damage.
+
+ 
+
+5.3 The Platform offers the collection service at the address indicated by the User, which may have an additional cost, as indicated on the Platform, regardless of the number of packages, for certain regions served by the Platform.
+
+ 
+
+5.3.1 The availability of the pick-up service is subject to the assessment of the coverage area. The user will be able to consult the coverage area by opening a call for support.
+
+ 
+
+5.3.2 The User must prepare the products for collection, properly packaged and with the shipping label in a visible way, with the respective invoice and description of the contents of the package.
+
+ 
+
+5.3.3 A collection request fee may be applied to the User, if it is not carried out due to the User's fault, for example, if the orders are not ready at the time the Partner arrives at their establishment, lack of adequate packaging, absence of affixing of the shipping label, dimensions or formats not accepted by the Partners, among others.
+
+ 
+
+5.4 The Platform provides a tracking system, which allows the User to monitor the status of the delivery, from collection to delivery at the final destination.
+
+ 
+
+5.5 In the event of a return of the product, whether due to operational errors of the User, delivery not made due to fault or request of the Final Consumer, the product will first be sent to ENVIOS DA OLIST, which will send it to the User, and these return freight rates may be monitored via the tracking system.
+
+ 
+
+5.5.1 The cost of the return shipping label, which will be deducted from the credits in the User Wallet, as well as the deadlines for the return, are indicated in the Help Center.
+
+ 
+
+5.5.2 It is the User's responsibility to provide the Platform with correct and complete information so that the return is processed properly. The Platform disclaims any liability for delays or failures in the return resulting from incorrect or incomplete information provided by the User.
+
+5.6 It is the Partner's sole responsibility to calculate and timely pay the ICMS Rate Differential (DIFAL) in interstate transactions, in accordance with the legislation in force. In the event of tax withholdings or immediate payment requirements during transportation for cargo clearance, the transportation person may, at its sole discretion, make operational payment of the bill to avoid delays. In these cases, the amount disbursed will be fully transferred to the Partner.
+
+ 
+
+5.6.1 The Partner declares to be solely responsible for defining and transmitting the tax parameters of its products (such as CFOP, tax classification, purpose and destination of the goods), and shall be administratively and judicially liable for any assessments, fines or contingencies generated by the omission or provision of incorrect or incomplete information.
+ 
+
+6. RESPONSIBILITIES OF THE PARTIES
+ 
+
+6.1 The User is responsible for the veracity, accuracy, completeness and timeliness of the information entered on the Platform, including, but not limited to, the information entered for the purposes of adhesion, payment, delivery address, Final Consumer data, package weight and the description of the content to be sent or delivery, and is also responsible for the product sent, being fully responsible for any damage and/or violation of third party rights.
+
+ 
+
+6.2 Whoever uses the Platform has sole responsibility for his or her actions. If the information entered or the User's actions cause any kind of damage or loss, ENVIOS DA OLIST may take the appropriate measures to protect its interests and rights, as well as the integrity and rights of third parties.
+
+ 
+
+6.3 If ENVIOS DA OLIST identifies any irregularity in the registration or account, if the User does not confirm the information declared when requested, or is in default, access to the Platform may be blocked, without prejudice to the investigation and collection of any damages caused and/or other measures it deems necessary.
+
+ 
+
+6.4 When using the Platform, the User undertakes to comply with the applicable legislation, as well as the provisions of these Terms, and must not make, produce, make available, disseminate or transmit any content or act that:
+
+ 
+
+6.4.1 Is contrary to any rule of Brazilian law, as well as to generally accepted morals and good customs, or that encourages any form of discrimination or violence, such as prejudiced, racist, offensive, insulting, defamatory, slanderous, pornographic, related to minors in any aspect and in particular pornography or child exploitation;
+
+ 
+
+6.4.2 Is protected by any intellectual or industrial property rights belonging to third parties, without the Client having previously obtained from their owners the necessary authorization for the use they make or intend to make;
+
+ 
+
+6.4.3 Incorporates viruses or other physical or electronic elements that may cause damage or prevent the normal functioning of the network, system or computer equipment ("hardware" and "software") of third parties, or that may cause damage to electronic documents and files stored in such computer equipment;
+
+ 
+
+6.4.4 Causes, due to its characteristics (shape, extension, etc.) difficulties in the normal functioning of the Platform;
+
+ 
+
+6.4.5 Reproduce, duplicate, copy, modify, adapt or commercialize the solutions related to the Platform or create derivative works based on such solutions; practices reverse engineering, disassembly, decompilation and/or fragmentation without authorization from OLIST SUBMISSIONS;
+
+ 
+
+6.4.6 Its purpose is to advertise its own or others' products and/or services or that it is intended for political propaganda.
+
+
+6.5 In addition to the conditions of use and privacy provided for in these Terms and in the Privacy Policy of the Olist group, the User is also subject to the provisions, as applicable, in the Code of Ethics and Conduct of the Olist group.
+
+ 
+
+6.6.1 In addition, the User declares, by itself and its partners, shareholders, managers, employees, agents, representatives or any other persons acting on its behalf or interest ("Representatives"), that:
+
+ 
+
+a) does not practice any act that has violated, or may violate, any provision of law or regulation, national or foreign, against the practice of corruption, that has not made, makes or will make any payment of bribes, illicit rebates, illicit remuneration, bribery, influence peddling, "box" or other illegal payment, as well as that acts in accordance with all laws, applicable regulations, manuals, policies and any provisions related to combating and preventing corruption and money laundering, including, but not limited to: (a) applicable Brazilian legislation, in particular Laws No. 8,429/1992, 9,613/1998, 12,529/2011 and 12,846/2013; (b) Foreign Corrupt Practices Act (FCPA/USA); (c) UK Bribery Act (UK); (d) international conventions and pacts to which Brazil is a signatory, and (d) Code of Ethics and Conduct of the Olist group;
+
+ 
+
+b) will inform ENVIOS DA OLIST if any of its Representatives have already exercised or exercise a function of Public Authority, as well as all family relations or close personal relations related to its Representatives with Public Authorities;
+
+ 
+
+c) "Public Authority" is considered, but not limited to: any person, agent, employee or third party who carries out activities in departments, institutions, associations, entities or bodies of direct or indirect public administration, as well as any employee, family member, relative or person of close relationship.
+
+ 
+
+d) is aware that failure to comply with the provisions set forth in this Clause may result in the unilateral termination of these Terms of Use by ENVIOS DA OLIST, which may, at its sole discretion, suspend the fulfillment of obligations arising from these Terms of Use, as well as that give rise to the obligation to indemnify ENVIOS DA OLIST for any losses and damages;
+
+ 
+
+e) agrees that ENVIOS DA OLIST may, at any time, audit the Client and its Representatives, under the terms of the Privacy Policy of the Olist group, regarding any information and/or document in order to verify compliance with the provisions of these Terms of Use, and the audit mentioned herein may be carried out by ENVIOS DA OLIST or by a third party indicated and funded by it, and the Client must, at all times, ensure broad and unrestricted access to all relevant documents and locations; e
+
+ 
+
+f) undertakes to immediately notify ENVIOS DA OLIST in the event of any violation, suspected violation or any irregular situation that is contrary to the applicable legislation on combating and preventing money laundering, terrorist financing and corruption, as well as international agreements and conventions that regulate the matter, being able to use the Olist group's Ethics and Conduct Channel.
+
+ 
+
+6.7 The removal, suspension or cancellation does not depend on prior notice and does not imply any right to compensation to the User or third parties.
+ 
+
+7. LIMITATION OF LIABILITY AND DISCLAIMER OF WARRANTY
+ 
+
+7.1 ENVIOS DA OLIST is not responsible for losses and damages caused by the irregular use of the services or the Platform, also excluding from its liability the effects of any fortuitous event or force majeure. ENVIOS DA OLIST is not responsible for damages, of any nature, that may affect third parties as a result of the User's conduct.
+
+ 
+
+7.2 ENVIOS DA OLIST will not be responsible for: (i) the intrinsic characteristics of the internet, especially related to the reliability and origin of the information circulating on this network; (ii) for the illegal content or activities practiced by third parties through its Platform; (iii) for any problems, bugs, glitches, or malfunctions that occur on User's devices and equipment; (iv) for any incorrect descriptions provided by the User about the address, weight of the package, description characteristics and value of the product to be transported and any fees and costs to be charged to the User on account thereof; and (v) for any direct or indirect damage caused by third-party events, such as hacker attacks, system, server or Internet connection failures, including malicious software such as viruses, Trojan horses and others that may, in any way, damage the User's equipment or connection as a result of access, use or browsing of the Website, as well as the transfer of data, files, images, texts, audios or videos contained therein.
+
+ 
+
+7.3 Olist does not share internal documents, proof of shipment, delivery signatures or operational evidence of systems with the Client. In case of discrepancy in delivery, the Customer has up to 7 (seven) calendar days after the delivery date informed in the tracking to open a call for acknowledgment.
+
+ 
+
+7.4 The Access Credential is personal and non-transferable, and the User is entirely responsible for any consequence resulting from the sharing of such information with third parties. OLIST reserves the right to suspend the account of the User who improperly shares his/her information. Any onerous or non-onerous assignment of the registration is prohibited, which will always be linked to the User, and any suspicion of assignment or improper use may generate immediate blocking and eventual cancellation, without prejudice to civil and criminal liability.
+
+ 
+
+7.5 Although it uses its best efforts, ENVIOS DA OLIST is not responsible for the uninterrupted availability of the Platform and for the acts of third parties that manage to collect or use, by improper or illicit means, data or information made available by the User.
+
+ 
+
+7.6 Orders without any movement in the tracking or manifestation by the Partner after the period of 30 (thirty) days from the expected date of delivery will automatically be out of the eligible period for dispute, and no refund claim will be allowed after this period.
+
+ 
+
+7.7 Without prejudice to the other disclaimers indicated in these terms, the User declares to be aware that ENVIOS DA OLIST is not responsible, under any circumstances, for losses and damages of any nature, including loss of profits, caused:
+ 
+
+a) for unavailability, errors or failures presented by the Platform, as well as for any deception of usefulness that the Client may attribute to the Platform, nor for any difficulty in access;
+
+b) for unavailability, errors or failures presented by the Platform resulting from fortuitous events or force majeure or attacks by hackers or third parties beyond the control of ENVIOS DA OLIST;
+
+c) for errors or any inconsistencies in the transmission of data, for the quality or availability of the Internet connection, which prevent the proper receipt of information by the Platform or by the Client; e
+
+d) for false or untrue statements, outdated, incomplete or untrue data that may be made available and updated by the Client.
+
+ 
+
+7.8 The User agrees to indemnify and hold ENVIOS DA OLIST harmless for any losses and damages that may be claimed, including legal expenses and attorneys' fees, due to any unlawful act practiced by the User, access to and use of the services, violation of these Terms, or violation of third party rights.
+
+ 
+
+7.9 The User agrees that it will be his sole responsibility for the products sold and data supplied, safeguarding and exempting ENVIOS DA OLIST from any responsibility in this regard. If ENVIOS DA OLIST is sued in court or out of court due to any failure, damage, loss or default on the part of the User, ENVIOS DA OLIST may report to the litigation and must be compensated for all direct and indirect damages suffered, including its right of recourse.
+
+ 
+
+7.10 ENVIOS DA OLIST will not be responsible for the services provided by the Partners related to the shipment.
+
+ 
+
+7.11 In cases in which ENVIOS DA OLIST is held responsible for damages caused by the Platform, the indemnity paid to the Client will be limited to the amount of R$3,000.00 (three thousand reais). If the User does not agree with this limitation, he must stop using the platform immediately.
+ 
+
+8. DATA PROTECTION
+8.1 When using OLIST SUBMISSIONS, the User may enter data, which may include personal data. ENVIOS DA OLIST is committed to ensuring the confidentiality and security of your information, and for this reason we have prepared the Privacy Policy, made available to the User in https://Olist.com/pt-br/seguranca-e-privacidade/politica-de-privacidade/ and Annex I to this instrument.
+ 
+
+9. INTELLECTUAL PROPERTY
+
+9.1 All texts, photographs, images, videos, illustrations, icons, technologies, links and other audiovisual or sound content, including the Platform's software, graphic designs, source codes, layouts and applications, are the exclusive property of ENVIOS DA OLIST or of a third party that has authorized its use, being protected by international laws and treaties, and its copying is prohibited. reproduction or any other type of use, and offenders are subject to civil and criminal sanctions, under the terms of Laws No. 9,279 of 1996, No. 9,609 of 1998 and No. 9,610 of 1998.
+
+ 
+
+9.2 The trademarks, trade names, distinctive signs or logos of any kind presented through the Platform are the property of ENVIOS DA OLIST or of a third party that allowed their use, so that the use of the Platform does not constitute authorization for the User to make any type of use or disposition of such trademarks, trade names, distinctive signs and/or logos.
+
+ 
+
+9.3 The User undertakes not to reverse engineer or allow to be reverse-engineered, nor to translate, decompile, copy, modify, reproduce, rent, transmit, lend, distribute, license or otherwise dispose of the OLIST Content to which he or she had access as a result of using the Platform.
+
+ 
+
+9.4 Access to the Platform does not transfer to the User any intellectual property rights related to elements of the Website, which are the exclusive property of ENVIOS DA OLIST.
+
+ 
+
+9.5 In case of violation of intellectual property, ENVIOS DA OLIST reserves the right to take the appropriate measures against the responsible party (s) for its reparation.
+ 
+
+
+10. TERM
+ 
+
+10.1 These Terms will last for an indefinite period, taking effect from the adhesion to ENVIOS DA OLIST.
+
+ 
+
+10.2 The User has the responsibility to check these Terms periodically. ENVIOS DA OLIST reserves the right to make changes and updates to the Terms, at any time, without the need for prior notice.
+
+ 
+
+10.3 If the User does not agree with the change promoted in the Terms, he must immediately cease using the shipping services.
+
+ 
+
+10.4 ENVIOS DA OLIST may, at its sole discretion, cancel the access to the Platform granted to the User, including, but not limited to: (i) for violation and/or non-compliance with these terms; (ii) due to a court order or legal and competent request from a state authority; (iii) at the Customer's own request; (iv) by modification or deactivation of the service or the Platform; (v) for acts of God, force majeure and/or security issues; (vi) due to account inactivity for a period of time deemed excessive by OLIST SUBMISSIONS; (vii) for the alleged practice of any fraudulent or illegal activity by Client, at the discretion of OLIST SUBMISSIONS; (viii) for the inappropriate use of the Platform, at the discretion of OLIST SUBMISSIONS; and/or (ix) for default by the Customer of any obligations, amounts, payments due due to the acquisition of products or services, when applicable.
+
+ 
+
+10.5. In the event of default and/or negative credit balance, ENVIOS DA OLIST reserves the right to suspend and/or cancel access to the Platform by the User, and may carry out the collection, extrajudicial or judicial.
+
+
+ 
+
+11. FINAL PROVISIONS
+
+11.1 Membership of ENVIOS DA OLIST is free, but ENVIOS DA OLIST may, at any time, create exclusive conditions and services that may require prior payment for its use.
+
+ 
+
+11.2 If any part of these Terms or the Privacy Policy is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+ 
+
+11.3 If any Party fails to assert any rights or provisions of these Terms, this shall not constitute a waiver, and the respective Party may regularly exercise its right, within the legal deadlines.
+
+ 
+
+11.4 The relationship between ENVIOS DA OLIST and the User is commercial and between legal entities, and under no circumstances will it be interpreted as a consumer relationship.
+
+ 
+
+11.5 These Terms are governed by, construed and enforced in accordance with the laws of the United States, without regard to the conflicts of those laws with the laws of other states or countries.
+
+ 
+
+11.6 These Terms are governed by Brazilian law and the Court of the District of Osasco/SP is elected, with express waiver of any other forum, however privileged it may be, to resolve disputes that may arise from its terms.
+ 
+
+Last updated on: May 15, 2026.
+
+ 
+
+ANNEX I - PROTECTION OF PERSONAL DATA
+This annex is an integral and inseparable part of the General Terms and Conditions of Use - OLIST SUBMISSIONS, entered into between "OLIST SUBMISSIONS" and the "CLIENT".
+
+ 
+
+1. Definitions
+ 
+
+1.1 For the perfect understanding and interpretation of this Data Protection Annex, it is established that:
+
+CONTROLLER: is the Client, individual or legal entity that hires the service of ENVIOS DA OLIST. It is the legal entity or individual that, alone or jointly with others, determines the purposes and means of these Terms of Use. In this Annex, you are referred to as the Customer.
+OPERATOR: is ENVIOS DA OLIST, developer of the Platform and provider of the services, which will process personal data only for the purposes that are contracted and under the Client's guidance.
+APPLICABLE DATA PROTECTION LAW: laws and regulations related to the processing and protection of personal data applicable in the country where OLIST is established. In this case, the Brazilian General Data Protection Law (Law No. 13,709/18);
+PERSONAL DATA: designates any information relating to an identified or identifiable natural person;
+DATA SUBJECT: natural person to whom the personal data that is processed refers;
+PROCESSING: any operation or set of operations carried out with personal data, whether or not by automatic means, such as the collection, production, reception, classification, use, access, reproduction, transmission, distribution, processing, filing, storage, elimination, evaluation or control of information, modification, communication, transfer, dissemination or extraction.
+DATA PROTECTION BREACH: means a breach of security that leads to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, the USER's Processed Personal Data for the purposes of this data processing agreement.
+ 
+
+2. Object
+ 
+
+2.1 This Personal Data Protection Annex ("Annex") complements the General Terms and Conditions of Use ("Terms") of the OLIST ENVIOS DA OLIST Platform ("Platform"), being an integral and inseparable part of this document. In accordance with Law No. 13,709/2018 (General Data Protection Law – LGPD), the Olist Group and its affiliated companies are committed to protecting the privacy and personal data of its customers. Use of the Platform implies acceptance of this Appendix and its provisions.
+
+ 
+
+2.2 The Olist Group also provides a Privacy Policy ("Privacy Policy"), available in https://olist.com/pt-br/seguranca-e-privacidade/politica-de-privacidade/ applicable to operations in general.
+
+ 
+
+2.3 In the event of a conflict between this Annex I and OLIST's Privacy Policy, the more specific one will prevail.
+
+ 
+
+3. Data Collected
+ 
+
+3.1 This Annex applies to personal data collected by the Platform during the process of logging in, contracting and using the services, as described in the Terms of Use, including, but not limited to:
+
+ 
+
+3.1.1 Data informed in the integration: Collection Address and Contact Data (name, email and telephone number).
+
+ 
+
+3.1.2 Data imported from the main Platform: Company data, CNPJ or CPF, telephone, e-mail and others.
+
+ 
+
+3.1.3 Payment data: Information on financial transactions carried out on the Platform for the acquisition of credits for the Wallet, including, if applicable, bank details for credit redemption.
+
+ 
+
+3.1.4 Platform usage data: Access logs, including IP address, browser type, operating system, and interactions on the Platform.
+
+ 
+
+3.1.5 Data on shipments: Data of the sender (Customer), recipient (Final Consumer/Holder) and characteristics of the products for the execution of logistics services.
+
+ 
+
+4. Purposes of Data Processing
+ 
+
+4.1 The personal data collected by the Platform is processed for the following purposes:
+
+ 
+
+4.1.1 Provision of services: Enable the contracting of freight, issuance of transport labels, shipment of the package and monitoring of deliveries.
+
+ 
+
+4.1.2 Financial Management: Use of payment data for the purchase, use and redemption of credits in the Wallet system.
+
+ 
+
+4.1.3 Communication with the Client: Sending notifications, updates, newsletters and technical support related to the Platform and services.
+
+ 
+
+4.1.4 Platform Improvement: Data analysis to improve usability, performance and functionality offering.
+
+ 
+
+4.1.5 Security and fraud prevention: Use the data to authenticate users, monitor activities, and protect against illegal activities.
+
+ 
+
+5. Sharing Data with Third Parties
+ 
+
+5.1 For the execution of the services, ENVIOS DA OLIST may share the personal data strictly necessary with:
+
+ 
+
+5.1.1 Carriers and partner drivers: name, contact details, collection addresses, name and CPF of the Final Consumer, delivery address and data contained in the Invoice.
+
+ 
+
+5.1.2 Payment Companies: Data for payment processing and Wallet management.
+
+ 
+
+5.1.3 Government authorities: When necessary to comply with legal, regulatory or fraud prevention obligations.
+
+ 
+
+5.2 The Platform undertakes to share personal data only with companies that comply with the LGPD and that adopt appropriate information security measures.
+
+ 
+
+6. Obligations of the Parent Company
+ 
+
+6.1 The Customer, as the Controller of the personal data, shall be responsible for:
+
+ 
+
+Define the purpose and legal bases for the processing of personal data;
+Ensure that the personal data entered on the Platform is accurate, legal and up-to-date;
+Inform Data Subjects about the processing and ensure that their rights are respected; e
+Maintain records of all processing activities as required by the LGPD.
+ 
+
+7. Obligations of the Operator
+ 
+
+7.1 OLIST/PLATFORM SUBMISSIONS, as Operator, will be responsible for:
+
+ 
+
+Process the personal data as instructed by the Client and within the limits defined by law;
+Implement and maintain technical and organizational measures to ensure the security of the personal data processed;
+Notify the Customer in the event of a personal data breach and collaborate in the adoption of corrective measures; e
+Assist the Customer in complying with its legal obligations before data protection authorities and data subjects, when applicable.
+ 
+
+8. Rights of Data Subjects
+ 
+
+8.1 The rights of the Data Subjects in relation to their personal data, described in the Privacy Policy, are fully applicable within the scope of the Platform.
+ 
+
+9. General Provisions
+ 
+
+9.1 ENVIOS DA OLIST reserves the right to modify this Attachment at any time, at its convenience, without the need for prior notice to the Client or Holder, and may include, change, remove or adjust any part of this Attachment.
+
+ 
+
+9.2 The non-exercise by either party of any right provided for in this Annex shall not represent novation, transaction or waiver of such right, and may be exercised at any time.
+
+ 
+
+9.3 If any clause, term or condition of this Agreement is considered null or void by any final judicial decision, such nullity or voidability will not affect the other clauses of this Agreement, which will remain in full force, provided that the contractual balance herein adjusted can still be maintained.
+ 
+
+9.4 The other provisions not addressed in this Attachment will comply with the provisions of the Privacy Policy of OLIST SUBMISSIONS.

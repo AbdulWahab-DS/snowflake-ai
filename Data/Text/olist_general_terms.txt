@@ -1,0 +1,126 @@
+General Terms and Conditions of Use - Olist Ecosystem
+These General Terms and Conditions of Use apply to the use of the different platforms and products offered by the Olist ecosystem, (hereinafter "Olist Platforms"). By using any of the Olist Platforms, the User accepts and agrees to these General Terms and Conditions of Use (hereinafter referred to only as the "Terms"), in addition to the specific terms applicable to each product individually.
+
+ 
+
+1. Acceptance of Terms
+1.1. The use of any of the Olist Platforms implies full acceptance of these Terms, the Privacy Policy and the specific conditions applicable to each product, as described in the individual Terms of Use of each platform (together, simply referred to as "Olist Policies").
+
+1.2. These Terms aim to regulate the integrated use of the products, establishing common rules to ensure the cohesion and harmonization of the rights and duties of Users when accessing the different platforms, and these Terms are complementary to the individual Terms of Use of the platforms, and such platforms and products are provided by the following companies:
+
+Olist Tiny Tecnologia LTDA, CNPJ No. 15.088.992/0001-28 (ERP, HUB, POS and Digital Account and Olist's Agents and AI);
+Vnda Serviços de Tecnologia LTDA, CNPJ 12.803.527/0001-33 (Olist Ecommerce);
+Pax Tecnologia LTDA, CNPJ 30.320.042/0001-70 (Olist Shipments);
+FLIP TECNOLOGIA LTDA, CNPJ n° 44.152.170/0001-67 (Credit from Olist/Flip by Olist);
+Olist Serviços Digitais LTDA, CNPJ No. 18.552.346/0001-68 (Olist Store);
+ 
+
+1.3. In the event of a conflict between these Terms and any of the individual Terms of Use of the platforms, the Terms of Use of the specific platform shall prevail.
+
+2. Olist Platforms and Products Offered
+2.1. Olist's ERP: Business management platform (ERP) that offers control and processing of companies' internal information, available via remote access. Specific Terms of Use applicable to this product can be found through the link.
+
+2.2. Olist's Ecommerce: Platform for e-commerce operation, offering resources for managing virtual stores and identifying growth opportunities in retail. Specific Terms of Use applicable to this product can be found through the link.
+
+2.3. Olist Shipments: Freight management platform that allows Users to make freight quotes, generate labels and manage the shipment of goods by partner carriers. Specific Terms of Use applicable to this product can be found through the link.
+
+2.4. Olist Digital Account: Platform that offers digital account services, allowing the User to carry out financial transactions, such as payments and transfers. Specific Terms of Use applicable to this product can be found through the link.
+
+2.5. Olist AI Agents: Additional features to Olist's ERP and Complementary Ecosystem Products, which use artificial intelligence models to perform automated tasks, generate content, analyze data, and interact in natural language. Specific Terms of Use applicable to this product can be found through the link.
+
+2.6. Flip by Olist Credit: It is the platform created to offer simple, fast and affordable credit solutions to small and medium-sized entrepreneurs. With digital processes and data analysis integrated into the Olist ecosystem. Specific Terms of Use applicable to this product can be found through the link.
+
+2.7. Olist Store: Platform that offers ad management, logistics and customer service, allowing the User to use Olist's reputation and negotiations in various marketplaces. Specific Terms of Use applicable to this product can be found through the link.
+
+2.8. Olist HUB: Platform that offers account management with marketplaces, allowing access to sales channels, fulfillment and integration with other marketplace services, available for contracting through Olist's ERP.
+
+2.9. Olist's POS: Platform that offers sales management, inventory automation and real-time reports, in physical and virtual stores, available for contracting through Olist's ERP.
+
+3. Integration and General Conditions
+3.1. Olist reserves the right to change these Terms, at its sole discretion, at any time and without prior notice from the User, and may change, add, modify or remove any parts of these Terms.
+
+3.2. The User must periodically check the Terms in order to follow up on the modifications. The continued use of your account on OLIST's platforms will constitute your acceptance of the changes and the new Terms.
+
+4. What are the minimum conditions to use Olist platforms?
+4.1. Our products and Platforms are intended for access and use by companies legally incorporated in Brazil and that are active before the Federal Revenue Service, regardless of their incorporation, and the Terms of Use of each platform may indicate specific access and use restrictions for certain types of companies.
+
+4.2. By accessing or using the products and the Olist Ecosystem Platform, the User guarantees and declares to have full capacity for all acts of civil life, as well as to have powers to manage the company before the Platforms, regardless of appointment, term or any other type of investiture in this regard.
+
+4.3. In addition to the conditions of use and privacy set forth in these Terms of Use and other Olist Policies, the User is also subject to the provisions, as applicable, of Olist's Code of Ethics and Conduct (hereinafter referred to only as the "Code").
+
+4.3.1. Any violation of Olist's Code and Policies authorizes the termination of the contractual relationship with the User, in addition to adopting the necessary legal measures, including, but not limited to, the communication of the Competent Authorities and the filing of administrative or judicial actions in defense of their interests.
+
+4.3.2. In the event of identification of any violation, or even suspicion of violation, of the Olist Code and Policies, Olist makes available Olist's Ethics and Conduct Channel for complaints by any person, and the report may, at the discretion of the complainant, be made anonymously.
+
+4.4. Ethical conduct is non-negotiable by Olist. Therefore, by using the Olist Platforms, the User declares, by itself and its partners, shareholders, managers, employees, agents, representatives or any other persons acting on its behalf or interest ("Representatives"), that:
+
+4.4.1. Does not practice any act that has violated, or may violate, any provision of law or regulation, national or foreign, against the practice of corruption, that has not made, makes or will make any payment of bribes, illicit rebates, illicit remuneration, bribery, influence peddling, "box" or other illegal payment, as well as that acts in accordance with all laws, regulations, manuals, policies and any provisions related to combating and preventing corruption and money laundering, including, but not limited to, as applicable, the following: (a) applicable Brazilian legislation, in particular Laws No. 8,429/1992, 9,613/1998, 12,529/2011 and 12,846/2013; (b) Foreign Corrupt Practices Act (FCPA/USA); (c) UK Bribery Act (UK); (d) international conventions and pacts to which Brazil is a signatory.
+
+4.4.2. The User will inform Olist if any of its Representatives have already exercised or exercise a function of Public Authority, as well as all family relationships or close personal relationships related to its Representatives with Public Authorities.
+
+Concept of Public Authority. "Public Authority" is considered but not limited to: any person, agent, employee or third party who carries out activities in departments, institutions, associations, entities or bodies of the direct or indirect public administration, as well as any employee, family member, relative or person of close relationship.
+ 
+
+4.4.3. The User is aware that failure to comply with the provisions set forth in this Clause may result in the termination of the contractual relationship with the User, and Olist may, at its sole discretion, automatically withhold any pending payments and/or suspend the fulfillment of obligations arising from Olist's Policies, as well as that give rise to the obligation to indemnify Olist for any losses and damages.
+
+4.4.4. The User agrees that Olist may, at any time, audit the User and its Representatives, under the terms of the Privacy Policy, regarding any information and/or document for the purpose of verifying compliance with the provisions of Olist's Policies, and the audit mentioned herein may be carried out by Olist or by a third party appointed and funded by it, and the User must, at all times, ensure broad and unrestricted access to all relevant documents and locations; e
+
+4.4.5. The User undertakes to immediately notify Olist in the event of any violation, suspected violation or any irregular situation that arises against the applicable legislation on combating and preventing money laundering, terrorist financing and corruption, as well as international agreements and conventions that regulate the matter.
+
+
+5. Payment and Plans
+
+5.1. Payment for the products of the Olist Platforms must be made in accordance with the provisions specified in the Terms of Use of each platform, including fees, subscription plans and defined payment terms.
+
+
+5.2. In case of delay in the payment of any of the contracted products, the User may have its access suspended or limited until the pending issues are settled, including other products of the Olist Ecosystem, being subject to judicial or extrajudicial collections, as well as the protest and denial with the credit agencies, of the outstanding amounts, in addition to giving rise to the application of a fine and interest until the payment of its debt.
+
+
+6. Termination, Cancellation and Liability for Use of the Platforms
+
+6.1. The termination of the products of any of the Olist Platforms must comply with the conditions set forth in the Terms of Use of each platform, including prior notice and any contractual fines.
+
+
+6.2. The cancellation of a product does not imply the automatic cancellation of the other products contracted with Olist, except when there is an express provision to the contrary, or, at Olist's discretion, for security measures and compliance with Policies and/or legislation.
+
+
+6.3. The User undertakes to use the Platforms and their products in accordance with the law, with the applicable Olist Policies and with the other instructions contained in each of the Platforms that he/she uses, in good faith, in accordance with morals and good customs, committing to not use them for illicit purposes or causes, in violation of the law or the rights of third parties, including personality or copyright rights, or that, in any way, may cause any damage to the Platforms and/or products, or even prevent the normal use or enjoyment of the Platforms and products by other Users, such as, but not limited to, the dissemination of viruses or other malicious codes.
+
+
+6.4. The improper use of the Platforms and/or products, by the User or by third parties through the use of their Access Credentials, will be the sole and exclusive responsibility of the User, including any damages caused to Olist or third parties.
+
+
+6.4.1. Olist may, at its sole discretion, suspend or revoke, in whole or in part, the User's access to the Platforms, without prior notice, especially in cases of fraud, suspected fraud, violation of these Terms of Use or any other misuse. The User undertakes to immediately notify Olist if he/she becomes aware of any improper, unauthorized or suspicious use of his/her Access Credentials.
+
+
+6.5. All content of the Olist Ecosystem Platforms, including, but not limited to, texts, graphics, spreadsheets, icons, drawings, computer programs (including their code, software and documentation), support materials and any data related to the system, is the exclusive property of the Olist Group companies, and is protected by Brazilian intellectual property legislation, rules on copyrights, computer programs, trademarks, patents, models and industrial designs.
+
+
+6.5.1. The unauthorized use of the aforementioned content, as well as its dissemination (even if restricted), total or partial reproduction, publication, distribution, transmission, compilation, alteration or any other form of exploitation, especially for commercial purposes without authorization, is strictly prohibited. Failure to comply will subject the offender to the appropriate measures.
+
+
+6.6. The USER authorizes Olist to use its trademark exclusively for institutional and commercial dissemination purposes, such as reference materials, advertisements, events or market communications, always in association with its condition as a User/Customer of Olist. If the USER prefers not to have their brand disclosed, they may request the exclusion of this authorization at any time by means of formal communication to support.
+
+
+6.7. Olist does not guarantee the availability and continuity of the operation of the Website and/or Platforms and the products, whether for technical and operational reasons, or for commercial or strategic reasons, and it is at its discretion to temporarily or permanently stop the activities of the Platforms, exempting itself from any responsibility for any damages and losses of any nature that may arise from it.
+
+
+6.8. Olist disclaims and exonerates, to the fullest extent permitted by the Brazilian legal system and any other applicable law, any liability for damages of any nature, loss of profits and emerging damages, in the use of products or in any other way, under the terms above.
+
+
+6.8.1. Olist's liability, if it is judicially declared, is limited to the amount corresponding to the value of 3 (three) monthly installments of the plan or package contracted by the User, on the respective Platform. The User declares to be in agreement with this clause of quantitative limitation of Olist's liability. If the User does not agree to this limitation, the User must stop using the products and the Platforms immediately.
+
+
+7. General Provisions
+
+7.1. This Term aims to provide a unified understanding for the use of Olist's products, ensuring transparency and legal certainty for all Users.
+
+
+8. Contact
+
+8.1. For additional information or clarification on the Terms and Conditions of Use of the Olist Platforms, the User may contact the service channels available on each of the platforms.
+
+
+8.2. These Terms are governed by Brazilian law and the Central Court of the District of the Metropolitan Region of Curitiba/PR is elected. However, if the dispute relates to a specific Product in the Olist ecosystem, the venue or dispute resolution mechanism set forth in the Specific Terms applicable to such Product will prevail.
+
+8.3. All communications, requests, notifications or information related to the Olist Ecosystem may be sent to the address: Avenida João Gualberto, n° 1.698, Curitiba/PR, CEP 80030-001.

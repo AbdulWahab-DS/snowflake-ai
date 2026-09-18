@@ -1,0 +1,528 @@
+General Terms and Conditions of Use - Olist Ecommerce
+By this Private Instrument of TERM OF USE ("Terms") and DATA PROTECTION ANNEX, on the one hand, VNDA SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO LTDA, headquartered in the city of Porto Alegre, Rio Grande do Sul, at Rua Germano Petersen Júnior, 508, Room 401, registered with the CNPJ/MF under No. 12.803.527/0001-33, called "ECOMMERCE DA OLIST" and, on the other hand, the USER, have the following just and agreed upon among themselves:
+
+PRELIMINARY CONSIDERATIONS
+
+i. By contracting the Platform, the USER will automatically grant acceptance of the content of these Terms, also agreeing that any individual who uses their account on their behalf will also respect the aforementioned Terms.
+ii. The acceptance of these Terms manifests the unequivocal will of the parties to the contract entered into by electronic means and in agreement with the necessary conditions for the use of the Ecommerce Platform and its functionalities. Failure to accept or violate the Terms will result in the suspension and termination of your Olist Ecommerce account.
+iii. The Code of Ethics and Conduct and the Data Protection Annex complement and integrate this Terms of Use, coming into force as of its incorporation into it.
+iv. Olist Ecommerce has the right to revise the Terms at any time, and continued use by the USER will be considered as acceptance of such revisions. The USER will be informed by email or through the platform in case of significant changes to this term, as well as may consult the most current version at any time on the website.
+v. The USER declares to be aware that Vnda Serviços De Tecnologia Da Informação has been part of the Olist group since September 2021.
+vi. "Olist Ecommerce" is understood as both the platform of integrated solutions for the commercialization of products and/or services online made available to the USER, and, when applicable, its legal representatives, agents and other members authorized to act on its behalf.
+vii. The terms also apply to the ecommerce domain made available.
+viii. When contracting complementary products, their respective specific terms apply, which will prevail over the present when more specific.
+ 
+
+DEFINITIONS
+
+1.1 For the perfect understanding and interpretation of these Terms, it is established that:
+
+
+a) OLIST ECOSYSTEM: set of products, services and digital platforms made available by the Olist Group, integrated into Olist's Ecommerce or offered in a complementary manner, governed by the respective Terms of Use and specific Policies. The adhesion and use of the Ecommerce Platform implies knowledge and agreement of the USER also with the Terms of Use of the Olist Ecosystem.
+a) USER: individual and/or legal entity that contracts access to Olist's Ecommerce Platform, as well as its affiliates, agents or employees duly authorized to use the system on their behalf.
+b) SUPPORT CENTER: official channel made available by Olist's Ecommerce for technical assistance and clarification of USER doubts, accessible through the channels indicated on the website or on the platform itself.
+c) OLIST ECOMMERCE PLATFORM: ecommerce platform developed and registered in the name of VNDA SERVIÇOS DIGITAIS LTDA., which enables the commercialization of products and/or services online, with remote access via the world wide web, through its own devices, whose responsibility is the USER's;
+d) SOFTWARE AS A SERVICE (SaaS): data storage system located on a remote server, to which access is made via the internet;
+e) WEBSITE or SITE: is the page or sequence of pages of the software developed, with the purpose of offering the system.
+f) COMPLEMENTARY PRODUCTS: additional products and features that are offered by the Olist Ecosystem, such as: Olist ERP, Olist Shipping, Olist Digital Account, Olist Ecommerce, Olist POS, Olist AI Agents or other product and/or functionality of the Ecosystem, which have their own terms of use.
+g) ECOMMERCE DOMAIN: It is the electronic address of your website, as www.nomedasualoja.com.br. It is essentially the online identity of your online store, allowing your customers to find and access your products and services.
+h) IMPLEMENTATION: It is the process of putting a virtual store online, making it functional and ready to receive customers.
+i) IMPLEMENTATION SERVICES ("setup"): Refers to the set of actions and activities carried out to prepare a virtual store for launch. They ensure that the platform is correctly configured and ready to operate, from the technical aspects to the trading policies. The setup includes, but is not limited to: initial planning, design and development of the website, configuration of technical infrastructure, product management, etc.j
+) PLANS: contracting modalities made available by Olist for access and use of the Platforms, which may vary according to the scope of functionalities, volume of transactions, commercial conditions, pricing model (old or new), frequency of billing and other parameters defined by Olist, its specific conditions will be described at the time of contracting, on the website or administrative panel of the respective Platform.
+l) OLIST PLANS: Refers to Olist's plans that include the Ecommerce platform, namely "Boost", "Dominate" and "Protagonize".
+m) ECOMMERCE PLANS: Refers to the exclusive Ecommerce plans, namely "Starter", "Scale" and "Enterprise".
+n) TOTAL VALUE OF SALES or GMV: Means the total amount of GMV obtained by a USER, that is, the gross value of sale of the product and/or service by the USER, excluding the values of canceled orders.
+
+ 
+
+PURPOSE
+
+2.1 The object of these Terms is the granting of access and license to use Olist's Ecommerce Platform, marketed as software as a service, storage of data included in the system by the USER and provision of remote support in the use of the functionalities of Olist's Ecommerce Platform; according to the contracting option requested by the USER at the time of contracting.
+
+2.2 The object of this contract is made by the USER's internet access to Olist's closed source Ecommerce software, through login and password, prohibiting any type of reproduction, copying or reverse engineering.
+
+2.3 To this end, Olist's Ecommerce is not responsible for the technical equipment and necessary means, such as, for example, computer, access provider to the world wide web and modem.
+
+2.4 Olist's Ecommerce reserves the right to change, modify, suspend or discontinue any portion of the website at any time, as well as the account options, values and formats to be offered to the USER, upon prior notice.
+
+2.5. Olist's Ecommerce may optionally make available Complementary Products and/or additional features, whose adhesion will depend on specific contracting by the USER. Such contracts may appear on the same invoice as the main plan, with the proper identification and description of the corresponding charges.
+
+2.6. Olist's Ecommerce offers implementation options, to be carried out by third parties, by the platform itself or by the USER itself, with variations in cost and delivery time, depending on the USER's choice, signaled during the Commercial process or directly on Olist's platforms.
+
+ 
+
+PAYMENTS
+
+3.1. The values, features and benefits associated with the services of the Olist Ecommerce Platform, associated with the Olist Plans, are those listed on the "Plans" page of the Olist website.
+
+3.2. The contracting of the Olist "Boost", "Dominate" and "Protagonize" plans includes Olist's Ecommerce platform with costs associated with the sales and billing of the ecommerce mentioned in this document, with no monthly fees for this product.
+
+3.3. In Ecommerce Plans in which there is a monthly fee, the first charge will be issued in the month following the date of signature of the Commercial Proposal, regardless of the launch date (go-live) of the project.
+
+3.3.1. In the Plans contracted together with other Complementary Products of the Olist Ecosystem, the charge will observe the minimum billing rate model, according to the commercial conditions applicable to the respective contracted Plan.
+
+3.3.2. The rules of collection, frequency and any grace periods will be specified in the Commercial Proposal and/or in the specific conditions of each Plan.
+
+3.4. Minimum billing fee: If the monthly GMV is below the minimum amount commercially established for the respective Plan, the minimum billing fee in force will be applied, according to Olist's updated commercial table.
+
+3.4.1. This charge will be applied from the month of the store's launch, if the minimum GMV is not reached.
+
+3.4.2. If the User has his store launched after the 15th day of the month, the charge will be made only on the billing of the first full month of operation.
+
+3.4.3. If the User reaches or exceeds the minimum GMV in force in a given month, the fee will be suspended in the subsequent month, being reactivated if the GMV falls below the minimum again.
+
+3.5. Sales fee: Olist's Ecommerce will charge a commission on the total value of the USER's confirmed orders, according to the percentage stipulated in the Comparative Table of Resources. The calculation will be made monthly based on the data available in the USER's administrative panel.
+
+3.6 The USER will have access to the features of the Platform according to the plan selected during the contract. The plans offered will have different values, depending on the desired features and capabilities.
+
+3.6.1. Plan changes must be made through the official channels made available.
+
+3.7. Late payment will result in the application of a fine of 2% (two percent) and interest of 1% (one percent) per month until compliance.
+
+3.8 The USER will have the right to use Olist's Ecommerce during the entire contracted period, and Olist's Ecommerce is not obliged to refund amounts already paid if the USER chooses to interrupt the use before the end of the corresponding period.
+
+3.9 In case of default by the USER, whether in relation to the value of the contracted plan or any complementary products, access to the system may be suspended after 10 (ten) calendar days from the maturity of the non-fulfilled obligation.
+
+3.10 The Setup service and form of collection will be given according to the value and conditions established in the Commercial Proposal, in case of negotiation with the Sales team, or through an option selected on the Olist platform.
+
+3.10.1. The Setup is the joint responsibility of the USER and the Platform and includes the activities necessary for the initial configuration and the start of operations, such as: planning, design, technical configuration and product management.
+
+3.10.2. The deadline for completion of the Setup varies according to the contracted model: (a) in the case of Free Setup, the maximum period will be up to 60 (sixty) days from the acceptance of the Commercial Proposal; (b) in cases of Paid Setup, the maximum term will be up to six (6) months, counted from the same date; (c) in the case of free setup with implementation by the USER himself via the Olist platform, the deadline will depend on the time dedicated to the process by the USER, and can be completed in less than 3 days.
+
+3.10.2. If the Setup, with the exception of the setup modality carried out directly by the USER on the Olist platform, is not completed within the above deadlines due to inertia, omission or non-compliance with the USER's obligations related to the project, Olist's Ecommerce may terminate the process or renegotiate the values and conditions originally provided for in the Commercial Proposal, at its sole discretion.
+
+
+3.10.3. Olist's Ecommerce may, at its sole discretion, subcontract third parties or specialized partner agencies for the provision of Setup services. In this case, the responsibility for the execution of the services, the technical support, the communication and the final result of the project will be the full and exclusive responsibility of the partner agency.
+
+
+3.10.3.1. As a result of the above, Olist's Ecommerce is fully exempt from any liability for any vices, failures, delays or losses arising from the provision of Setup services by third parties, acting only as an intermediary of the contract.
+
+3.11. Free Setup: Olist's Ecommerce offers free Setup in two modalities, via certified partners or to be executed by the USER himself via Olist's platform. In the case of setup via certified partners, the USER will have assistance via e-mail, 10 (ten) hours of programming for customization of the Website (limited to the inclusion of logo, change of font and color) and registration documentation, with an implementation period of 30 (thirty) days.
+
+3.11.1. The Free Setup offered in Olist's Ecosystem plans must be completed within 60 (sixty) calendar days, counted from the date of contracting. Failure to provide information or failure to perform essential tasks by the User within the stipulated period will result in the loss of gratuity and the charge for the service in the amount of R$ 5,000.00 (five thousand reais).
+
+
+3.12 Out-of-Scope Services: The Platform and Setup services do not include the functionalities and activities listed below:
+ 
+
+Conversion, export or import of data to/from other systems.
+Inclusion of data, texts, products, photos, banners or any other information that may be entered by the USER through the Administrative Panel.
+Website optimization service for search engines (search engine optimization).
+Domain acquisition and creation of email accounts with hosting providers.
+Writing, translation, adaptation of texts, acquisition of images or hiring of photographers.
+Advanced training for the use of HTML editor, import of data from legacy systems and contracting payment methods with banks and operators.
+Support or adaptation of features for old browsers or for those released after the date of signing the contract, as shown in the following list: Internet Explorer; Edge (prior to version 17); Firefox (prior to version 45); Safari (prior to version 10.2); Opera (prior to version 41); Chrome (prior to version 50)
+ 
+
+3.12.1 The possibility of creating Ecommerce with Payment and Shipping Gateways outside the Olist ecosystem is not included in the scope of the Free Setup via Olist's platform, except in cases where Olist's internal services do not meet the user's region or company profile, to be informed during the process.
+
+3.13. Freight Value: The costs related to freight services will be fully passed on to the User, according to the amounts agreed with the carrier.
+
+
+3.13.1. The use of Olist's Shipping tool, Prompt Delivery Direct or Store Pickup guarantees exemption from service fees on shipping, as an exclusive benefit to Users who choose to use Olist's logistics gateway.
+
+
+3.13.2. In the event of using external freight gateways, a service fee may be charged per order sent, according to the values in force in Olist's commercial table.
+
+
+3.13.3 The amounts may be readjusted at the intervals permitted by law, based on the variation of official inflation indexes, operating costs and/or market conditions applicable to the sector, without prejudice to the application of other legally accepted criteria.
+
+
+3.14. Olist's Ecommerce may pass on the impact on the value of the plans and/or features in case of creation of new taxes or, if the conditions for calculating or collecting existing taxes are changed.
+ 
+
+TERM AND CANCELLATION
+
+4.1. The relationship governed by this term will be indefinite, and may be terminated at any time by either party, upon notice.
+
+
+4.2. The USER may express interest in terminating Olist's Ecommerce contract upon prior notice, at least thirty (30) days in advance, by the official support email: ajuda.ecommerce@olist.com.
+
+
+4.3. The termination of this Agreement at the initiative of either Party, without just cause, will follow the rules below, according to the contracted plan:
+
+
+a) Platform Plans (Legacy and Ecommerce): Termination in the first 12 months: fine equivalent to 3 (three) current monthly payments. After 12 months: 30 (thirty) days' notice or payment of 1 (one) monthly fee as indemnified prior notice.
+
+
+b) Olist / Bundle Plans: Termination in the first 12 months: fine equivalent to 3 (three) times the average commissions and minimum billing fee of the last 3 (three) months. In the absence of billing in the period, three (3) minimum billing fees apply. After 12 months: thirty (30) days' notice or payment of the minimum billing fee as indemnified notice. Also, in the month of dismissal, if the turnover is lower than the minimum established, the Minimum Billing Fee will be charged.
+
+
+4.3.1. For calculation purposes, the penalty will be calculated on the Monthly Amount originally contracted. However, if at the time of Termination the current list value of the services is higher than the Monthly Value originally contracted, the fine will be calculated on the current Monthly List Value, whichever is higher among them.
+
+
+4.4. If the USER chooses to cancel the contract during the Setup phase, the payment for this stage will be fully due. This amount is non-refundable, as it covers the costs and time already invested for the development and initial configuration of the store, including the work of professionals, licenses and software resources.
+
+
+4.5. In case of cancellation of the services at the initiative of Olist's Ecommerce, the total amount of the Setup will be refunded to the USER. This provision does not apply in cases where the cancellation is motivated by violations by the USER as detailed in Clause 4.6.
+
+4.6. The request for cancellation of the contract must be formalized exclusively by the official support email: ajuda.ecommerce@olist.com. Orders sent through other channels, such as phone, chat, WhatsApp, social networks or individual contacts, will not be considered valid for cancellation purposes. The request will be considered as received on the date of sending the e-mail, and the processing will observe the deadlines provided for in this Term.
+ 
+
+4.7. Olist's Ecommerce may unilaterally terminate this Agreement, without obligation to return the amounts paid by Setup, under the following conditions:
+
+A. User with disrespectful, abusive or hostile conduct towards Olist's Ecommerce representatives or its ecosystem.
+
+B. Evidence of use of the platform by the User for illegal activities or in violation of applicable legislation.
+
+C. Bad faith, fraud or any deviation from the original purpose of the platform by the User.
+
+D. Violation of the Terms of Use or any provision of these Terms.
+
+
+4.8. In case of request for discontinuation of services by the User, the financial issues must be settled within a maximum period of 10 (ten) business days, counting from the closure of the account. Failure to comply with this deadline will subject the USER to the appropriate measures, including the protest of the amounts.
+ 
+
+4.9. In case of a request to cancel the account, the USER declares to be aware that:
+
+A. Data must be backed up and performed prior to account cancellation. This backup will be available for a maximum period of 48 (forty-eight) hours, and after this period, it will no longer be possible to obtain the backup of the data, unless the account is reactivated, under the terms of item c);
+
+B. once the cancellation has been made, the account will be deactivated and the data will no longer be accessible;
+
+C. to perform the backup after cancellation, it will be necessary to reactivate the account upon payment of the current administrative fee;
+
+D. the account data will remain stored for 60 (sixty) days after cancellation, being deleted after this period, without the possibility of recovering the data and the front of the store, except for data that has a different period of obligation by law and that may be requested by the authorities.
+ 
+
+4.10. The availability of the platform and its functionality may be blocked, temporarily or permanently, in the following situations:
+
+A. Transfer or sale of the access account to third parties, whether for a fee or free of charge.
+
+B. Default that results in 15 (fifteen) or more days open.
+ 
+
+4.10.1. In the event of a block due to default, in order to regain access to the Platform, the USER must pay the outstanding installments, formalize the desire to reconnect with Olist's ECOMMERCE service, as well as pay the reactivation amount in force in the table
+
+
+4.11. In the event that the Contractor wishes to terminate Olist's ERP, maintaining the contracting of Olist's Ecommerce platform, it will be necessary to formalize the request. To do so, the User must send a written notification to the ajuda.ecommerce@olist.com email address, indicating the Olist Ecommerce plan that he/she wishes to contract. The migration of data and the readjustment of the plan will be processed after confirmation of receipt of the request.
+ 
+
+OLIST'S ECOMMERCE OBLIGATIONS
+
+5.1 The obligations of Olist's Ecommerce, in addition to the others provided for in this instrument, in the applicable legislation and in the annex to these Terms:
+
+A. To provide access to the Platform, employing the best efforts to ensure its quality, security and privacy of the USER's information, including login and password data. Such information will be disclosed to third parties only upon court order, authorization of the USER or in the cases expressly provided for in this Agreement.
+
+B. Keep the USER informed about scheduled interruptions of the service resulting from preventive or corrective maintenance.
+
+C. Provide technical support for the use of the Platform through ajuda.ecommerce@olist.com email or integrated chat, from 8:30 a.m. to 6 p.m.
+ 
+
+5.2. The deadlines for the first response to calls vary according to the level of criticality of the occurrence, as shown in the table below:
+
+Criticality Level	Description	Handling Time (in working hours)
+Critical	Impossibility of using the services, without a palliative solution (inoperative system).	6 (six)
+High	Use with severe restrictions or with palliative procedure.	12 (twelve)
+Medium	Use with few restrictions or limitations.	24 (twenty-four)
+Low	No impact on the User's operation.	80 (eighty)
+ 
+
+5.2.1. The USER acknowledges that the service time mentioned in the table above refers only to the first contact, and not to the total time to solve the problem. The deadline for the complete solution of the demand cannot be stipulated in advance, due to the diversity and complexity of the occurrences.
+
+
+5.2.2. The use of the support service by email, ticket and chat is included in the contract price, at no additional cost. However, the following services are not considered part of the support and will be charged upon prior quotation and approval of the USER:
+
+A. Corrections of errors caused by improper operation or misuse of the Platform by the User.
+
+B. Face-to-face services that require team displacement.
+
+C. Layout revisions that go beyond the default configuration.
+
+D. Training or retraining for the use of the Platform.
+
+E. Specific adaptations to the User's computer or network environment.
+
+
+5.2.3. Support via WhatsApp will be available to customers who meet the current eligibility criteria defined in Olist's commercial policy, according to GMV ranges or plan levels.
+
+
+5.2.4. The offer of live training sessions may be available according to the commercial criteria in force for each Plan, including periodicity and access conditions, observing the rules communicated to the User at the time of contracting.
+
+
+5.2.5. The designation of a dedicated Account Manager may be made available according to the eligibility criteria defined in Olist's commercial policy, which may include GMV range, category of the contracted Plan or other applicable conditions.
+
+ 
+
+USER OBLIGATIONS
+
+6.1 The USER's obligations, in addition to the others provided for in this instrument and in the applicable legislation, are:
+
+A. Pay the amounts due according to the plan, complementary products and features subscribed.
+
+B. Address respectful and polite treatment to Olist's Ecommerce representatives.
+
+C. Use Olist's Ecommerce solely for lawful purposes and in strict accordance with Brazilian law.
+
+D. The USER declares to have provided true and correct data at the time of filling in their registration information in the contracting procedure, having legitimacy to use such data, being responsible, inclusively, for any typing errors or erroneously entered data.
+
+E. The USER assumes the obligation to inform any registration changes, especially changes arising from the articles of association, physical address or e-mail, and Olist's Ecommerce is allowed to use its own or third-party service to verify the validity and veracity of the information provided.
+
+F. The USER is obliged to communicate any loss or disposal of the account access information (USERNAME and password).
+
+G. The USER declares that the e-mail informed when filling out their registration form is an effective, valid and sufficient form of communication to receive communications related to their account on the Olist Ecommerce Platform, as well as for information on account cancellation or suspension.
+
+H. The USER authorizes that the initial page of access to Olist's Ecommerce Platform is also effective, valid and sufficient for the disclosure of matters related to the system contracted herein, including in relation to any price adjustment of plans, complementary products or functionalities.
+
+I. The USER undertakes to keep the means of access to Olist's Ecommerce Platform always updated (such as browser and operating system) by making the updates suggested by the suppliers of such products. Any damage caused by non-compliance with the instructions of the software manufacturers or the browser for accessing the Olist Ecommerce Platform is their sole responsibility.
+
+J. The USER declares that he/she has read and understood the terms of the PRIVACY AND DATA PROTECTION POLICY, as well as any updates to it.
+
+K. During the Setup phase, the USER undertakes to carry out all the actions necessary for the correct implementation of the Platform, including, but not limited to, the following activities: registering products, including photos, descriptions and other mandatory information; register banners, institutional texts and navigation menus; provide the redirects and other necessary technical adjustments in case of environment migrations; contract and configure the means of payment and delivery to be used in the operation; provide the necessary access and permissions for integrations with external systems, including ERP, Google, among others.
+ 
+
+6.2. It is strictly forbidden for the User, when using the Platform:
+
+A. Assign, sell, rent, sublicense, distribute, copy, modify, translate, decompile, disassemble, reverse engineer, or economically exploit the Platform and its content (including data and information) for purposes not expressly authorized in this Agreement, or for the development of competing products and services.
+
+B. Install or disseminate viruses, malicious codes, files or software that may interrupt, destroy, improperly access, damage or interfere with the operation, security or integrity of the Platform.
+
+C. Access or use the Platform in a way that impairs its security, integrity, availability and/or normal operation.
+
+D. Access the Platform or any data contained therein without proper authorization.
+
+E. Violate the privacy of other users of the Platform.
+
+F. Perform any act contrary to current legislation or these Terms of Use.
+ 
+
+REGISTRATION AND USE OF REGISTRATION DATA
+
+7.1 By registering and accepting this Term, the USER expressly declares and guarantees, for all legal purposes, that he/she has the legal capacity to join, as well as that he/she is financially responsible for the use of the products and features made available by Olist's Ecommerce.
+
+
+7.2 The USER undertakes to notify Olist's Ecommerce immediately about any misplacement, theft, loss or unauthorized use of his/her login and/or password, in order to carry out the appropriate blocks.
+
+
+7.3 In addition to the conditions of use and privacy provided for in these Terms and in the group's Privacy Policy, the USER is also subject to the provisions, as applicable, in the Code of Ethics and Conduct of the Olist Group. Any violation of the Code and other Policies may lead to the termination of the contractual relationship with the USER, in addition to the adoption of necessary legal measures, including, but not limited to, the communication of the Competent Authorities and the filing of administrative or judicial actions in defense of their interests, if applicable.
+
+
+7.4 In the event of identification of any violation, or suspicion of violation, of the Codes and Policies, the Olist Group's Ethics and Conduct Channel is made available for complaints by any person, and the notification may, at the discretion of the complainant, be made anonymously.
+
+
+7.5 The USER declares, by himself and by his partners, shareholders, managers, employees, agents, representatives or any other persons acting on his behalf or interest ("Representatives"), that:
+ 
+
+i. does not practice any act that has violated, or may violate, any provision of law or regulation, national or foreign, against the practice of corruption, that he has not made, makes or will make any payment of bribes, illicit rebates, illicit remuneration, bribery, influence peddling, "box" or other illegal payment, as well as that he acts in accordance with all laws, applicable regulations, manuals, policies and any provisions related to combating and preventing corruption and money laundering, including, but not limited to: (a) applicable Brazilian legislation, in particular Laws No. 8,429/1992, 9,613/1998, 12,529/2011 and 12,846/2013; (b) Foreign Corrupt Practices Act (FCPA/USA); (c) UK Bribery Act (UK); (d) international conventions and pacts to which Brazil is a signatory, and (d) Code of Ethics and Conduct of the Olist Group;
+
+
+ii. inform if any of its Representatives have already exercised or exercise functions of Public Authority, as well as all family relations or close personal relations related to its Representatives with Public Authorities.
+
+
+iii. is aware that failure to comply with the provisions set forth in this Clause may result in the unilateral termination of these Terms of Use by Olist's Ecommerce;
+
+
+iv. Olist's Ecommerce may audit the USER and its Representatives, under the terms of the Olist Group's Privacy Policy, regarding any information and/or document in order to verify compliance with the provisions of these Terms of Use, and the audit mentioned herein may also be carried out by a third party at its discretion, and the USER must, at all times, ensure broad and unrestricted access to all relevant documents and locations; e
+ 
+
+7.6 The registration and electronic use of registration data has the purpose of establishing the contractual relationship, management, administration, prospecting, provision, expansion and improvement of the system to the USER, communication about the creation of new functionalities, updates, technical, operational and commercial information related to products and/or services offered directly or indirectly, existing or future dissemination partners. The purpose of the registration and electronic processing of registration data also includes the sending of survey forms, which the USER is not obliged to answer.
+
+
+7.7 Olist's Ecommerce guarantees that it adopts the best levels of security in the protection of the USER's registration data, having installed the means and technical measures to try to avoid the loss, misuse, alteration, unauthorized access or improper subtraction of the registration data collected.
+
+
+7.8 The USER agrees that, even after the termination of the use of Olist's Ecommerce, his/her e-mail will remain in the database and may be removed, with the exception of legal custody obligations, upon express request to the e-mail encarregadodedados@olist.com.
+ 
+
+ 
+
+SERVICE LEVEL AGREEMENT (SLA) AND PLATFORM AVAILABILITY
+
+8.1 Olist's Ecommerce undertakes to make the Platform available with a minimum monthly service level (SLA), as shown in the table below. This commitment represents the standard of performance expected for the provision of the service and does not constitute a guarantee of uninterrupted operation, recognizing the dynamic and failure-prone nature inherent in technology systems.
+
+Service	Minimum Service Level (SLA)
+Virtual Store Interface (availability of the showcase - contents and pages of the site in the stipulated domain, not including cart and checkout service)	96% (ninety-six percent)
+Checkout service	95% (ninety-six percent)
+Administrative Panel	96% (ninety-four percent)
+ 
+
+8.2. The SLA is calculated monthly, based on the following formula: SLA = ((Total Monthly Time - Downtime) / Total Monthly Time) x 100%
+
+
+8.2.1. For the purposes of this clause, the terms are defined as:
+
+A. Monthly Total Time or Calculated Monthly SLA: The total number of minutes in the reference calendar month.
+
+B. Virtual Store Interface: The part of the Platform accessible to the public, where the end customer makes their purchases.
+
+C. Administrative Panel: The restricted area of the Platform, used by the USER to manage the virtual store.
+
+D. Unavailability Time: The period in which the respective service (Interface or Panel) is not accessible to the USER or the end customer, provided that the failure is the sole responsibility of Olist Ecommerce.
+
+ 
+
+8.3. Periods of interruption caused by:
+ 
+
+A. Actions, omissions, or failures of responsibility of the USER or third parties designated by the USER, including, but not limited to: errors in code files (HTML/CSS, JavaScript), incorrect routing of the User's DNS or server settings.
+
+B. Events of unforeseeable circumstances or force majeure, as defined by Brazilian law.
+
+C. Failures in third-party services not controlled by Olist Ecommerce, such as: electricity supply, telecommunications services, routing systems and interruptions in infrastructure services of external providers (e.g., AWS, Google Cloud).
+
+D. Scheduled interruptions for maintenance, provided that they are previously communicated to the USER at least twenty-four (24) hours in advance, at times of less operational impact. Olist's Ecommerce will make efforts to ensure that such maintenance takes place outside business hours (from 9 am to 6 pm, Monday to Friday, Brasilia time).
+ 
+
+8.4. If the minimum SLA established in 8.1 is not reached in a given month, Olist Ecommerce will grant a credit to the USER, according to the following conditions:
+
+A. Compensation will be 1% of the plan's monthly fee for every 1% below the minimum guaranteed SLA for the service.
+
+B. Credit calculation will be based on SLA table 6.1.
+
+C. To apply for credit, the USER must submit a written request within 10 calendar days after the end of the reference month.
+ 
+
+8.4.1. The request must detail the date and time of the incidents that caused the unavailability. After verifying and confirming that the Calculated Monthly SLA was lower than the contracted, Olist's Ecommerce will apply the credit to the invoice of the month following the occurrence calculation.
+ 
+
+8.5. Olist's Ecommerce will not be responsible for failures, unavailability or slowness of services in the following situations:
+ 
+
+A. Problems caused by modifications in the configuration of the Olist Ecommerce Platform;
+
+B. Emergency outages to prevent threats to the platform's security (such as hacking, DDoS, or ransomware attacks). In these cases, prior communication will not be possible, as the priority is the immediate protection of the system and all users.
+
+C. Suspension of services by order of competent authorities, for non-compliance with these Terms, or after judicial notification of violation of intellectual property rights.
+
+D. Crashes caused by a sudden increase in the number of visitors (more than double the daily average of the last 60 days).
+
+E. Failures in software or services outside the control of Olist Ecommerce, such as interruptions in telecommunication networks, cloud provider services, or due to integration with third parties.
+ 
+
+LIMITATION OF LIABILITY
+
+9.1. Under no circumstances will Olist Ecommerce be liable for indirect damages, loss of profits, loss of revenue, loss of data, damage to reputation or any other financial losses or losses of a similar nature.
+
+
+9.2. In cases where Olist's Ecommerce is legally responsible for damages proven to be caused by the Platform, the maximum compensation due to the USER will be limited to the total amount paid by the USER to Olist in the 3 (three) months immediately prior to the event that caused the damage, regardless of the nature of these charges (monthly fees, commissions, fees, minimum billing, setup or any other values applicable to the contracted Plan).
+
+
+This limitation applies to all causes of action, whether in contract or tort (including negligence), except in cases of intent or gross negligence.
+ 
+
+INTELLECTUAL PROPERTY
+
+10.1 Unless expressly stated otherwise, all content of Olist's Ecommerce, including, but not limited to, texts, graphics, spreadsheets, icons, drawings, computer programs (including their code, software and documentation), support materials and any data related to the system, is the exclusive property of the Olist Group, and is protected by Brazilian intellectual property legislation. rules on copyrights, computer programs, trademarks, patents, models and industrial designs.
+ 
+
+10.2 Unauthorized use of the above-mentioned content, as well as its dissemination (even if restricted), total or partial reproduction, publication, distribution, transmission, compilation, alteration or any other form of exploitation, especially for commercial purposes without authorization, is strictly prohibited. Failure to comply will subject the offender to the appropriate measures.
+ 
+
+10.3 The USER authorizes Olist's Ecommerce to use its brand exclusively for institutional and commercial dissemination purposes, such as reference materials, advertisements, events or market communications, always in association with its condition as Olist's USER/Client. If the USER prefers not to have their brand disclosed, they may request the exclusion of this authorization at any time by means of formal communication to support.
+ 
+
+CONFIDENTIALITY
+
+11.1 The Parties agree that all information entered into the Olist Ecommerce Platform, or that is transmitted and/or received, will be treated as confidential. The use and eventual sharing of this information will only occur for: (i) compliance with legal or regulatory obligations; (ii) compliance with an order or determination by a competent authority; or (iii) enabling operations, integrations and commercial partnerships that ensure the USER a better experience, efficiency and security in the use of Olist's products and features.
+
+
+11.2 Information that is in the public domain at the time it is developed or provided will not be treated as a breach of confidentiality.
+
+
+11.3 Olist's Ecommerce will not be responsible for breaches of the aforementioned data and information resulting from the acts of employees, agents or persons authorized by the USER, nor those resulting from the criminal or irregular action of third party "hackers" outside the limits of technical predictability at the time it occurs.
+ 
+
+
+GENERAL PROVISIONS
+
+12.1 The non-exercise by either party of any right contained herein shall not represent novation, transaction or waiver of such right, which may be exercised at any time.
+
+
+12.2 If any clause of these Terms is considered void or annulled by any final court decision, such nullity shall not contaminate the remaining clauses.
+
+FORUM
+
+13.1 The Parties elect, to settle any claims arising from this contract, with waiver of any other, however privileged it may be, the Court of the city of Porto Alegre in the state of Rio Grande do Sul.
+ 
+
+ 
+
+DATA PROTECTION ANNEX
+
+This annex is an integral and inseparable part of the Terms of Use entered into between the "CONTRACTOR" and the "USER".
+The parties formalize that this DATA PROTECTION ANNEX, together with the OLIST ECOMMERCE TERMS OF USE and the OLIST GROUP PRIVACY POLICY, form the definitive instructions for the USER and the CONTRACTED PARTY regarding the Processing of Personal Data in the use of Olist's Ecommerce Platform. Any additional instructions outside the scope of this treaty shall be subject to prior written agreement by the parties.
+ 
+
+The terms of this DATA PROTECTION ANNEX may be changed. The USER may consult the most current version of the Terms of Use at any time on the website. If you have an active subscription to Olist Ecommerce, we'll let you know about the updates when they occur.
+ 
+
+DEFINITIONS
+
+1.1 For the perfect understanding and interpretation of this Data Protection Annex, it is established that:
+a) CONTROLLER: is the individual or legal entity that hires the service. It is the legal entity or individual that, alone or jointly with others, determines the purposes and means of these Terms of Use. In these Terms of Use, you are designated as a USER.
+
+
+b) OPERATOR: developer of the Ecommerce Platform and provider of software as a service services. Entity that processes personal data on behalf of the USER, as contemplated by the Agreement and this data processing agreement.
+
+c) SUB-PROCESSOR: term used to refer to any operator hired by the Ecommerce Platform to assist in the fulfillment of the obligations regarding the provision of services under this contract, or even the other companies of the Olist Group, as defined in the Olist Group's Privacy Policy.
+
+d) APPLICABLE DATA PROTECTION LAW: laws and regulations related to the processing and protection of personal data applicable in the country where Ecommerce is established;
+
+e) PERSONAL DATA: designates any information relating to an identified or identifiable natural person;
+
+
+f) DATA SUBJECT: natural person to whom the personal data that are processed refers;
+
+
+g) PROCESSING: any operation or set of operations carried out with personal data, whether or not by automatic means, such as collection, production, reception, classification, use, access, reproduction, transmission, distribution, processing, filing, storage, elimination, evaluation or control of information, modification, communication, transfer, dissemination or extraction.
+
+
+h) DATA PROTECTION BREACH: means a breach of security that leads to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, the USER's Processed Personal Data for the purposes of this data processing agreement.
+ 
+
+USER RESPONSIBILITIES
+
+2.1 The control of Personal Data is the sole responsibility of the USER, who is the one who has the relationship with the Data Subjects, the decision on such Personal Data and who has the obligation to ensure that the Processing is carried out in accordance with the applicable legal basis and according to the principles provided for in the APPLICABLE DATA PROTECTION LAW. As the CONTROLLER of Personal Data, the USER must keep Olist's ERP harmless in this regard, being responsible for any violation or non-compliance with the APPLICABLE DATA PROTECTION LAW.
+
+
+2.2 Personal data will be treated in accordance with Olist's Ecommerce Terms of Use, this Data Protection Annex and the Olist Group's Privacy Policy, and the USER will be responsible for the following obligations:
+
+a) Define the objectives, legal bases, purposes and retention time of the Processing of Personal Data, ensuring that it occurs in accordance with the applicable Personal Data protection legislation;
+b) Inform the Data Subject and obtain all necessary authorizations and consent from them, if necessary and applicable, being solely responsible for any failure to obtain consent, regarding the sharing and processing of this Personal Data with Olist's Ecommerce for the purposes of this Data Protection Annex;
+c) Inform the respective holders that Olist's Ecommerce may share Personal Data with advertising partners or other companies of the OLIST group when necessary to provide, maintain and improve the services offered to the USER, including for the purposes set forth in the Olist Ecommerce Terms of Use, and, in this case, such companies will guarantee, at a minimum, the protections and safeguards provided in this clause;
+d) Prepare notifications (including data protection breach notifications) to data protection authorities and data subjects, if necessary;
+e) Carry out the assessment of the risks resulting from the processing of personal data;
+f) ensure that all Personal Data subject to Processing by Olist Ecommerce is and remains correct and up-to-date, ensuring that all instructions transmitted to Olist Ecommerce or other companies of the OLIST group in relation to the Processing of Personal Data will be in accordance with the APPLICABLE DATA PROTECTION LAW;
+g) Inform, immediately and in detail, of any errors or irregularities related to the Data Protection Laws in the Processing of Personal Data of which it is aware, when related to the processing of data in the environment of use of Olist's Ecommerce systems.
+
+ 
+
+OLIST'S ECOMMERCE RESPONSIBILITIES
+
+3.1 Olist Ecommerce undertakes to process the Personal Data, to which it has access due to the use of the Olist Ecommerce Platform by the USER, only within the limits provided for herein and to keep the Personal Data stored exclusively for the time necessary to develop the services within the scope of the Terms of Use, Olist Group's Privacy Policy and this Data Protection Annex.
+
+
+3.2 Will not use the Personal Data for its own benefit or that of third parties other than the USER CONTROLLER of the Personal Data, nor will it share it with anyone, except in the following cases:
+
+a) When necessary for the Processing, including sharing with SUB-PROCESSORS, in accordance with the legal guidelines of the USER, who will be responsible for these guidelines;
+b) If Olist's Ecommerce is required to disclose Personal Data by determination of a competent authority, court order, arbitration or administrative decision, informing the USER in advance, or, when not possible, soon after the disclosure;
+c) With advertising partners or other companies of the OLIST Group when necessary to provide, maintain and improve the services offered to the USER, including for the purposes set forth in the Olist Ecommerce Terms of Use, and, in this case, such companies will guarantee, at least, the protections and safeguards provided for in this clause.
+ 
+
+3.3 Olist's Ecommerce will define the means for the Processing, being responsible for providing the security measures guiding this instrument, and the USER, at its discretion, must adopt such security measures.
+
+
+3.3.1 The USER declares to be aware that the security measures related to the Internet are not entirely infallible; so that the USER acknowledges that the OLIST GROUP is not responsible for any improper access, suspicious activity in the USER's account or, also, for any consequences and damages arising from the USER's failure to maintain the confidentiality of the password and/or the lack or delay in communication regarding any improper access or unauthorized use of the USER's password by third parties.
+
+
+3.4 Olist's Ecommerce may document and archive all decisions and instructions of the USER regarding the Processing of Personal Data necessary for the execution of the Terms of Use, Olist Group's Privacy Policy and this Data Protection Annex, for a sufficient period so that it can protect itself in the event of an administrative or judicial proceeding, due to non-compliance with the applicable legislation.
+
+3.4.1 The USER cannot demand the deletion of Personal Data, since a Law or applicable rules require Olist Ecommerce to maintain materials that contain such Personal Data. Where you need to retain Personal Data for such reasons, its processing will be restricted by your representatives, or third parties engaged by you, until the applicable retention period has expired. In addition, the processing of Personal Data will be restricted rather than deleted Personal Data, to the extent legally permitted by Applicable Data Protection Law, in particular, if deletion is not reasonably feasible or if it is only possible at a disproportionate cost due to the specific type of storage. The USER acknowledges and accepts that some requests may result in additional compensation claims for Olist Ecommerce.
+
+
+3.5 Olist's Ecommerce shall not be held liable for any claims, losses and damages, judicial, administrative or arbitration procedural expenses, in any instance or court, fines, or any other situation involving the payment of monetary amounts, except if the events that led to such consequences arise from exclusive and proven fault, and are directly related to the services provided to the USER:
+ 
+
+a) In accordance with the provisions of the caput, the USER undertakes to keep Olist's Ecommerce harmless from any judicial, administrative or arbitration proceeding that may be initiated;
+b) As an OPERATOR, Olist's Ecommerce protects its right of recourse against the USER, if it bears any of the procedures/costs mentioned above, without prejudice to the reimbursement of expenses arising from the process, in addition to other measures, such as denunciation to the litigation;
+c) Olist's Ecommerce reserves its right to refuse, by means of formal written notification, any operation ordered by the USER that implies the Processing of Personal Data in non-compliance with the Personal Data protection rules in force.
+ 
+
+GENERAL PROVISIONS
+
+4.1 The non-exercise by either party of any right enshrined herein shall not represent novation, transaction or waiver of such right, which may be exercised at any time.
+
+
+4.2 If any clause, term or condition of this Agreement is considered null or void by any final judicial decision, such nullity or voidability will not contaminate the other clauses of this Agreement, which will remain in full force, provided that the contractual balance herein adjusted can still be maintained.
+
+
+4.3 Olist Ecommerce reserves the right to change this Data Protection Annex, at its discretion, at any time and without the need for prior notification of the USER, and may change, add, modify or remove any parts of this ANNEX.
