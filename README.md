@@ -7,6 +7,9 @@ A data engineering and Generative AI project built using Snowflake, LangChain, R
 This project uses the Olist Brazilian E-Commerce dataset for structured data analysis and combines it with document-based RAG for unstructured data.
 
 ### Structured Data
+
+This project uses the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+
 - Olist data stored and analyzed in Snowflake
 - LangChain SQL Agent for natural-language SQL queries
 - Automatic table and schema discovery
